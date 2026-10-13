@@ -1,0 +1,1205 @@
+patient_id,county,treatment_start_date,age_years,sex,hiv_status,cd4_count,on_art,bmi_kg_m2,diabetes,current_smoker,previous_tb_treatment,cavitary_disease,baseline_smear_grade,resistance_pattern,regimen,dot_adherence_pct,distance_to_clinic_km,culture_conversion_date,death_date,ltfu_date,transfer_out_date,last_followup_date
+DRTB-0239,Siaya,2023-01-01,38,Male,Negative,,,21.9,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),86,19.3,2023-02-27,,,,2024-12-31
+DRTB-0147,Busia,2023-01-02,75,Male,Positive,361.0,Yes,19.8,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),59,7.4,,2023-01-17,,,2023-01-17
+DRTB-1094,Kisumu,2023-01-02,36,Male,Positive,402.0,Yes,16.4,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),72,9.2,2023-04-02,2024-01-25,,,2024-01-25
+DRTB-0366,Homa Bay,2023-01-04,29,Female,Negative,,,21.6,No,No,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),79,10.3,2023-02-05,,,,2025-01-03
+DRTB-1173,Kisumu,2023-01-05,43,Female,Positive,149.0,Yes,15.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),99,9.9,,2024-03-02,,,2024-03-02
+DRTB-1054,Migori,2023-01-06,41,Female,Positive,247.0,Yes,,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),93,9.9,2023-02-04,,,,2025-01-05
+DRTB-0078,Kisumu,2023-01-08,39,Female,Positive,62.0,Yes,16.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,11.0,2023-03-11,,,,2025-01-07
+DRTB-0954,Homa Bay,2023-01-10,21,Female,Positive,,Yes,19.0,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),79,18.5,2023-06-09,,,,2025-01-09
+DRTB-1165,Kisumu,2023-01-11,25,Female,Positive,88.0,Yes,18.6,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,14.4,2023-04-14,,,,2025-01-10
+DRTB-0579,Migori,2023-01-12,44,Female,Negative,,,21.0,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),99,5.0,2023-09-11,,,,2025-01-11
+DRTB-0903,Kisumu,2023-01-12,35,Male,Negative,,,22.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,2.8,2023-04-09,,,,2025-01-11
+DRTB-0408,Kakamega,2023-01-13,24,Male,Negative,,,17.7,Yes,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),94,8.0,2023-06-11,2024-04-06,,,2024-04-06
+DRTB-0616,Kakamega,2023-01-15,34,Female,Negative,,,20.2,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),99,9.5,2023-04-17,,2023-05-15,,2023-05-15
+DRTB-0007,Kakamega,2023-01-16,31,Male,Negative,,,17.8,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),76,5.5,,2023-01-20,,,2023-01-20
+DRTB-0748,Siaya,2023-01-16,50,Female,Negative,,,16.1,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),92,7.3,2023-02-14,2023-05-30,,,2023-05-30
+DRTB-1176,Busia,2023-01-16,38,Male,Negative,,,16.9,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),77,15.8,2023-02-18,,,,2025-01-15
+DRTB-0615,Homa Bay,2023-01-17,32,Male,Negative,,,19.3,No,Yes,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),92,23.3,2023-03-15,,2024-03-14,,2024-03-14
+DRTB-0462,Homa Bay,2023-01-18,38,Female,Negative,,,,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),81,18.6,2024-01-15,,,,2025-01-17
+DRTB-1196,Kisumu,2023-01-18,44,Female,Positive,186.0,No,16.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,5.8,2023-02-18,2023-05-21,,,2023-05-21
+DRTB-0849,Siaya,2023-01-20,38,Male,Negative,,,24.3,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,32.8,2023-02-16,,,2024-06-21,2024-06-21
+DRTB-1098,Kisumu,2023-01-20,31,Male,Negative,,,18.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),84,6.8,2023-05-20,,,,2025-01-19
+DRTB-0641,Migori,2023-01-21,64,Male,Negative,,,21.9,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),84,24.0,2023-07-22,,,,2025-01-20
+DRTB-0165,Homa Bay,2023-01-22,35,Female,Negative,,,16.5,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),84,24.1,2023-05-20,,,,2025-01-21
+DRTB-0294,Homa Bay,2023-01-22,32,Male,Negative,,,17.0,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),96,9.5,2023-04-24,,,,2025-01-21
+DRTB-0890,Kisumu,2023-01-22,34,Male,Negative,,,17.2,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),92,3.0,2023-08-23,,,,2025-01-21
+DRTB-0188,Kisumu,2023-01-23,47,Female,Positive,98.0,No,,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,7.9,2023-02-19,,,,2025-01-22
+DRTB-0558,Homa Bay,2023-01-23,39,Male,Negative,,,17.6,No,No,No,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),97,16.0,2023-05-26,2023-08-27,,,2023-08-27
+DRTB-0081,Kisumu,2023-01-24,42,Female,Positive,,Yes,20.2,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),87,5.8,2023-05-24,,,,2025-01-23
+DRTB-0828,Busia,2023-01-24,27,Male,Positive,177.0,Yes,19.3,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,23.3,2023-07-20,2023-12-27,,,2023-12-27
+DRTB-1090,Siaya,2023-01-24,46,Male,Positive,122.0,Yes,18.0,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,27.7,,2023-08-21,,,2023-08-21
+DRTB-0317,Siaya,2023-01-26,49,Male,Positive,,Yes,15.8,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,17.6,2023-05-25,2024-11-07,,,2024-11-07
+DRTB-0221,Busia,2023-01-27,52,Male,Negative,,,22.1,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),65,22.5,2023-05-27,,2023-12-28,,2023-12-28
+DRTB-0415,Kakamega,2023-01-27,34,Male,Negative,,,15.7,No,No,Yes,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),88,14.1,2023-04-26,,,,2025-01-26
+DRTB-0666,Homa Bay,2023-01-27,53,Male,Negative,,,22.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),85,16.2,,2023-05-12,,,2023-05-12
+DRTB-0925,Siaya,2023-01-28,30,Female,Negative,,,18.3,No,No,No,No,1+,Pre-XDR,Short all-oral (6 mo),85,7.2,2023-03-26,,,,2025-01-27
+DRTB-0342,Migori,2023-01-31,46,Female,Positive,,Yes,17.6,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),93,32.9,2023-02-27,,,,2025-01-30
+DRTB-0438,Siaya,2023-02-01,28,Male,Negative,,,22.9,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),97,19.1,2023-05-03,,2023-12-09,,2023-12-09
+DRTB-0489,Homa Bay,2023-02-01,55,Female,Negative,,,16.3,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),75,18.7,2024-04-25,,,,2025-01-31
+DRTB-0777,Homa Bay,2023-02-01,43,Female,Positive,222.0,Yes,18.4,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,19.4,2023-07-04,,,,2025-01-31
+DRTB-0509,Homa Bay,2023-02-03,28,Female,Negative,,,18.6,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),84,14.0,2023-09-01,,2024-06-23,,2024-06-23
+DRTB-0621,Siaya,2023-02-05,21,Male,Negative,,,17.2,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),88,11.0,2023-04-03,,,,2025-02-04
+DRTB-0071,Busia,2023-02-06,38,Male,Positive,1101.0,Yes,17.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),81,7.5,,2023-02-09,,,2023-02-09
+DRTB-1095,Homa Bay,2023-02-06,26,Female,Negative,,,21.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),92,18.6,,,2023-06-05,,2023-06-05
+DRTB-0090,Busia,2023-02-08,44,Male,Positive,70.0,Yes,19.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,6.8,2023-03-09,,,,2025-02-07
+DRTB-0103,Siaya,2023-02-08,80,Female,Negative,,,18.8,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),87,9.2,2023-03-11,,2023-10-27,,2023-10-27
+DRTB-0612,Kakamega,2023-02-09,39,Male,Negative,,,25.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),63,21.5,2023-10-05,,,,2025-02-08
+DRTB-0360,Busia,2023-02-10,29,Female,Negative,,,21.7,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,8.5,2023-04-09,,,,2025-02-09
+DRTB-0642,Busia,2023-02-10,22,Female,Positive,,Yes,21.1,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),48,42.7,,,2023-05-08,,2023-05-08
+DRTB-0145,Homa Bay,2023-02-11,35,Male,Negative,,,16.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,20.8,2023-08-13,,,,2025-02-10
+DRTB-0998,Migori,2023-02-11,20,Male,Positive,,Yes,20.8,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,26.9,,2023-06-05,,,2023-06-05
+DRTB-0189,Kisumu,2023-02-13,36,Male,Negative,,,20.9,No,Yes,No,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),72,5.6,,,2023-03-16,,2023-03-16
+DRTB-0543,Homa Bay,2023-02-13,44,Male,Negative,,,21.2,No,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,10.2,2023-10-11,,,,2025-02-12
+DRTB-0661,Kisumu,2023-02-14,50,Male,Negative,,,19.2,No,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),79,2.6,2024-08-04,,,,2025-02-13
+DRTB-0029,Kakamega,2023-02-15,45,Male,Positive,250.0,Yes,15.7,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),77,21.0,2023-04-19,,2023-04-25,,2023-04-25
+DRTB-0151,Kisumu,2023-02-15,29,Male,Negative,,,24.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,2.3,2023-03-14,,,,2025-02-14
+DRTB-0315,Kisumu,2023-02-15,37,Female,Negative,,,15.8,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),90,25.1,,,2023-08-16,,2023-08-16
+DRTB-0948,Kakamega,2023-02-15,25,Male,Positive,327.0,Yes,18.5,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,5.5,2023-05-15,,,,2025-02-14
+DRTB-0695,Kisumu,2023-02-16,47,Male,Negative,,,18.5,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),88,5.6,,2023-03-16,,,2023-03-16
+DRTB-0074,Siaya,2023-02-17,50,Male,Negative,,,17.9,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),87,11.9,2024-02-12,,,,2025-02-16
+DRTB-0352,Busia,2023-02-17,27,Male,Negative,,,22.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,18.8,2023-03-18,,,,2025-02-16
+DRTB-0289,Busia,2023-02-18,37,Male,Negative,,,23.7,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),87,44.1,2023-05-22,,,,2025-02-17
+DRTB-0201,Migori,2023-02-21,43,Female,Negative,,,19.5,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,30.2,,,2023-04-11,,2023-04-11
+DRTB-0114,Kakamega,2023-02-22,37,Male,Negative,,,20.1,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),80,16.6,2023-09-19,,,2024-07-20,2024-07-20
+DRTB-0956,Migori,2023-02-22,37,Male,Negative,,,22.4,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),89,14.9,2023-07-25,,,,2025-02-21
+DRTB-0755,Homa Bay,2023-02-23,46,Male,Negative,,,21.2,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),83,7.3,2023-03-27,,2024-01-12,,2024-01-12
+DRTB-0892,Busia,2023-02-25,34,Male,Positive,152.0,Yes,21.4,No,No,No,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),88,8.0,2023-06-22,,,2024-07-28,2024-07-28
+DRTB-0901,Siaya,2023-02-27,27,Male,Negative,,,21.7,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,6.1,2023-07-24,,,,2025-02-26
+DRTB-0559,Kakamega,2023-03-01,39,Male,Negative,,,16.8,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,18.4,2023-05-02,,,2024-01-30,2024-01-30
+DRTB-1099,Kakamega,2023-03-01,32,Male,Positive,252.0,Yes,23.8,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),80,8.6,,2023-08-20,,,2023-08-20
+DRTB-0281,Kakamega,2023-03-02,31,Female,Negative,,,21.4,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),72,16.8,2023-04-04,,,,2025-03-01
+DRTB-0556,Homa Bay,2023-03-04,80,Male,Negative,,,21.3,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,7.1,2023-04-05,,2023-05-22,,2023-05-22
+DRTB-0608,Migori,2023-03-05,40,Female,Negative,,,18.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,22.7,2023-12-30,,,,2025-03-04
+DRTB-1024,Homa Bay,2023-03-05,31,Female,Negative,,,20.0,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,19.6,2023-06-03,,,,2025-03-04
+DRTB-0840,Kisumu,2023-03-08,32,Male,Negative,,,18.5,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,5.0,,,2023-04-12,,2023-04-12
+DRTB-0601,Migori,2023-03-09,39,Male,Negative,,,,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,14.4,2023-05-10,,,,2025-03-08
+DRTB-1006,Siaya,2023-03-09,60,Male,Positive,1065.0,Yes,18.9,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),55,38.6,2023-07-10,,,,2025-03-08
+DRTB-0454,Busia,2023-03-11,23,Female,Negative,,,20.0,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),85,10.8,2023-09-07,,,,2025-03-10
+DRTB-1150,Migori,2023-03-12,38,Male,Negative,,,19.9,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),71,32.1,2023-07-10,,,,2025-03-11
+DRTB-0693,Kisumu,2023-03-15,67,Female,Positive,1400.0,Yes,14.6,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),97,2.8,,2023-06-25,,,2023-06-25
+DRTB-1118,Migori,2023-03-15,50,Male,Negative,,,23.3,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,22.4,2023-10-10,,,,2025-03-14
+DRTB-0161,Kakamega,2023-03-16,41,Male,Negative,,,21.6,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,8.1,2023-06-12,,,,2025-03-15
+DRTB-0931,Kakamega,2023-03-17,60,Male,Negative,,,22.4,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),93,11.6,2023-05-14,,2024-04-24,,2024-04-24
+DRTB-0644,Homa Bay,2023-03-18,48,Female,Positive,208.0,Yes,23.9,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),72,6.0,2024-02-13,,,,2025-03-17
+DRTB-0224,Kakamega,2023-03-19,37,Male,Negative,,,20.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),75,6.2,2023-11-13,,,,2025-03-18
+DRTB-1194,Kisumu,2023-03-21,39,Female,Negative,,,19.1,Yes,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),81,6.2,2023-07-21,,,,2025-03-20
+DRTB-0324,Homa Bay,2023-03-24,33,Male,Negative,,,19.4,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),99,17.1,2023-05-22,,,,2025-03-23
+DRTB-0471,Kisumu,2023-03-24,48,Female,Positive,218.0,Yes,16.2,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,6.5,,2023-04-21,,,2023-04-21
+DRTB-0629,Homa Bay,2023-03-26,32,Male,Negative,,,21.9,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),69,9.6,2023-04-27,,2024-05-16,,2024-05-16
+DRTB-0818,Kisumu,2023-03-26,35,Female,Positive,171.0,Yes,18.6,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,2.5,2024-03-22,,,,2025-03-25
+DRTB-0185,Kisumu,2023-03-27,49,Male,Negative,,,21.9,No,Yes,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),76,10.4,2023-06-24,,,,2025-03-26
+DRTB-0498,Homa Bay,2023-03-27,51,Male,Negative,,,,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),100,19.5,2023-05-28,,,,2025-03-26
+DRTB-0584,Migori,2023-03-27,48,Male,Negative,,,16.3,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),97,46.3,2023-10-21,,,,2025-03-26
+DRTB-0731,Migori,2023-03-27,29,Female,Positive,576.0,Yes,19.2,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),75,15.0,2023-06-26,,2023-12-26,,2023-12-26
+DRTB-1184,Busia,2023-03-27,43,Male,Negative,,,22.3,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),92,32.2,2023-05-26,,,,2025-03-26
+DRTB-0102,Homa Bay,2023-03-28,37,Male,Positive,746.0,Yes,20.4,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),81,17.4,,,2023-10-29,,2023-10-29
+DRTB-1036,Homa Bay,2023-03-28,35,Female,Negative,,,21.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,7.5,2023-04-25,,2023-05-20,,2023-05-20
+DRTB-0400,Siaya,2023-03-29,19,Male,Negative,,,19.8,No,Yes,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,5.5,2023-09-24,,,,2025-03-28
+DRTB-1019,Homa Bay,2023-03-30,22,Female,Negative,,,19.7,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),92,10.4,2023-06-01,,2023-06-30,,2023-06-30
+DRTB-0740,Kisumu,2023-03-31,71,Male,Positive,123.0,Yes,214.0,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,3.6,2023-08-31,,2023-12-03,,2023-12-03
+DRTB-0886,Siaya,2023-03-31,21,Male,Negative,,,22.1,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),85,20.3,2023-06-01,,,,2025-03-30
+DRTB-1164,Busia,2023-03-31,46,Male,Negative,,,21.1,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),88,6.1,2024-03-26,,,,2025-03-30
+DRTB-0732,Homa Bay,2023-04-03,30,Male,Positive,,Yes,21.6,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),89,15.6,2023-05-30,,,,2025-04-02
+DRTB-0390,Homa Bay,2023-04-04,44,Male,Negative,,,20.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,13.6,2023-06-04,,,,2025-04-03
+DRTB-0153,Homa Bay,2023-04-05,42,Male,Negative,,,22.6,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,16.5,2024-02-27,,,,2025-04-04
+DRTB-0588,Homa Bay,2023-04-05,35,Male,Positive,179.0,Yes,15.2,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,16.2,,,2023-04-11,,2023-04-11
+DRTB-0697,Busia,2023-04-05,37,Female,Negative,,,15.9,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,17.0,2023-11-03,,,,2025-04-04
+DRTB-0984,Migori,2023-04-06,19,Female,Negative,,,13.9,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,19.6,2023-11-29,,,,2025-04-05
+DRTB-0373,Migori,2023-04-09,30,Male,Negative,,,21.5,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),78,17.1,2023-05-06,,,,2025-04-08
+DRTB-1142,Kisumu,2023-04-09,39,Male,Negative,,,20.3,No,Yes,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),85,23.4,2023-05-10,,2023-12-26,,2023-12-26
+DRTB-0744,Siaya,2023-04-12,38,Male,Negative,,,23.5,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,13.5,2023-12-11,,,,2025-04-11
+DRTB-0676,Kakamega,2023-04-14,45,Male,Positive,167.0,Yes,18.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),91,16.9,2023-07-16,,,,2025-04-13
+DRTB-1115,Kisumu,2023-04-15,40,Female,Positive,,Yes,17.7,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),95,2.6,2024-02-10,,,,2025-04-14
+DRTB-1179,Homa Bay,2023-04-15,25,Male,Negative,,,22.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),85,30.6,2023-09-10,,,,2025-04-14
+DRTB-1158,Busia,2023-04-16,41,Male,Negative,,,,Yes,No,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),84,15.4,2023-07-13,,,,2025-04-15
+DRTB-0016,Kakamega,2023-04-17,38,Female,Negative,,,19.5,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),72,35.8,2023-05-16,,2023-07-27,,2023-07-27
+DRTB-0576,Kakamega,2023-04-18,18,Male,Negative,,,18.5,No,Yes,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),77,18.6,,,2023-06-03,,2023-06-03
+DRTB-0046,Kisumu,2023-04-19,55,Male,Negative,,,25.4,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),79,3.9,,,2023-11-07,,2023-11-07
+DRTB-0059,Siaya,2023-04-20,43,Female,Positive,231.0,Yes,18.7,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,13.0,2023-10-17,,,,2025-04-19
+DRTB-0500,Kisumu,2023-04-20,19,Male,Positive,354.0,Yes,20.9,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,36.1,2023-05-18,,,,2025-04-19
+DRTB-0960,Kisumu,2023-04-21,55,Female,Negative,,,21.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),82,3.6,2023-06-20,,,,2025-04-20
+DRTB-0226,Busia,2023-04-22,34,Male,Negative,,,,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),81,33.8,,2023-11-20,,,2023-11-20
+DRTB-0699,Kakamega,2023-04-22,29,Male,Negative,,,18.6,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),78,39.0,,,2024-01-03,,2024-01-03
+DRTB-1138,Siaya,2023-04-22,40,Male,Positive,,Yes,16.0,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),96,9.5,,2023-06-14,,,2023-06-14
+DRTB-0236,Homa Bay,2023-04-23,31,Male,Positive,749.0,Yes,19.5,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,17.6,2023-09-19,,,,2025-04-22
+DRTB-0997,Kakamega,2023-04-23,32,Female,Positive,,No,15.3,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),80,8.4,2024-08-12,,,,2025-04-22
+DRTB-0875,Migori,2023-04-24,36,Male,Negative,,,18.4,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),94,7.7,2024-09-14,,,,2025-04-23
+DRTB-0518,Migori,2023-04-28,27,Male,Negative,,,21.4,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),95,25.9,2023-07-24,,,,2025-04-27
+DRTB-0030,Busia,2023-05-01,70,Male,Positive,,No,15.5,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),94,26.4,2024-03-24,,,,2025-04-30
+DRTB-0223,Homa Bay,2023-05-01,31,Male,Negative,,,19.2,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,10.5,2023-05-30,,2024-10-23,,2024-10-23
+DRTB-0835,Kisumu,2023-05-01,39,Male,Positive,39.0,Yes,20.0,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),84,25.6,2023-12-29,,,,2025-04-30
+DRTB-1053,Homa Bay,2023-05-01,25,Male,Negative,,,14.3,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,7.0,2023-09-25,,,,2025-04-30
+DRTB-0060,Kisumu,2023-05-03,27,Male,Negative,,,22.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,2.3,2023-07-04,,,,2025-05-02
+DRTB-0365,Kisumu,2023-05-03,26,Male,Positive,160.0,Yes,17.0,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),89,3.8,,2023-05-10,,,2023-05-10
+DRTB-0981,Migori,2023-05-04,30,Male,Negative,,,24.1,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),70,27.9,2023-12-02,,2024-01-01,,2024-01-01
+DRTB-0244,Homa Bay,2023-05-05,40,Female,Negative,,,19.8,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),94,5.8,2023-06-03,,,,2025-05-04
+DRTB-0619,Homa Bay,2023-05-06,36,Female,Positive,,No,13.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),88,9.7,2023-06-03,,,,2025-05-05
+DRTB-0778,Kisumu,2023-05-06,24,Male,Negative,,,,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),97,4.2,2023-12-05,,,,2025-05-05
+DRTB-0062,Migori,2023-05-07,36,Female,Negative,,,19.5,No,Yes,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),84,18.0,2024-03-04,,,,2025-05-06
+DRTB-0673,Homa Bay,2023-05-07,36,Female,Negative,,,23.6,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),87,18.8,2023-12-31,,,,2025-05-06
+DRTB-0196,Siaya,2023-05-13,33,Male,Positive,,Yes,,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),71,7.4,2023-12-12,,,,2025-05-12
+DRTB-0042,Kakamega,2023-05-15,28,Female,Negative,,,17.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),79,7.9,2023-09-14,,,,2025-05-14
+DRTB-0989,Kakamega,2023-05-18,43,Male,Positive,550.0,Yes,21.9,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),67,10.2,2023-11-17,,2024-05-29,,2024-05-29
+DRTB-0268,Homa Bay,2023-05-19,60,Female,Negative,,,20.4,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),94,11.5,2023-06-19,,,,2025-05-18
+DRTB-0282,Homa Bay,2023-05-20,53,Female,Negative,,,13.0,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),88,17.8,,,2023-12-31,,2023-12-31
+DRTB-0296,Kisumu,2023-05-20,20,Male,Positive,,No,18.9,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),95,3.5,2023-11-13,,,,2025-05-19
+DRTB-0587,Siaya,2023-05-20,40,Male,Positive,,Yes,21.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,7.5,2023-07-21,,2024-03-31,,2024-03-31
+DRTB-0598,Busia,2023-05-20,49,Male,Negative,,,19.8,No,Yes,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),89,17.5,2023-12-16,,,,2025-05-19
+DRTB-0267,Kisumu,2023-05-21,46,Female,Positive,479.0,Yes,23.0,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,3.5,2023-10-18,,,,2025-05-20
+DRTB-0388,Homa Bay,2023-05-23,32,Male,Negative,,,24.5,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,6.5,2023-06-19,,,,2025-05-22
+DRTB-0492,Kakamega,2023-05-23,36,Male,Negative,,,17.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),81,12.9,2024-06-18,,,,2025-05-22
+DRTB-0618,Siaya,2023-05-24,19,Male,Positive,,Yes,18.9,No,Yes,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),81,6.1,2023-08-20,,2024-05-15,,2024-05-15
+DRTB-0141,Kakamega,2023-05-25,26,Female,Negative,,,20.6,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),92,4.3,2023-10-21,,,,2025-05-24
+DRTB-0600,Siaya,2023-05-25,34,Male,Negative,,,22.4,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),86,22.2,2023-08-25,,2023-11-10,,2023-11-10
+DRTB-0957,Homa Bay,2023-05-25,39,Male,Positive,330.0,No,22.3,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),84,14.9,2023-07-25,2025-03-02,,,2025-03-02
+DRTB-1016,Homa Bay,2023-05-26,21,Male,Positive,741.0,Yes,18.0,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,19.7,2023-10-24,,,,2025-05-25
+DRTB-0965,Kisumu,2023-05-28,27,Male,Positive,,Yes,20.5,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),81,19.7,2023-09-26,,,,2025-05-27
+DRTB-0497,Kakamega,2023-05-30,40,Male,Negative,,,23.3,No,Yes,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),98,8.6,2023-08-28,,2024-03-26,,2024-03-26
+DRTB-1032,Kakamega,2023-05-31,33,Male,Positive,,Yes,15.3,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,12.5,2024-05-23,2024-05-29,,,2024-05-29
+DRTB-1111,Homa Bay,2023-06-01,27,Male,Negative,,,15.3,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),72,21.2,2023-08-02,,,,2025-05-31
+DRTB-0014,Busia,2023-06-02,18,Male,Positive,117.0,Yes,17.7,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),92,11.6,2023-08-31,2024-01-23,,,2024-01-23
+DRTB-0404,Siaya,2023-06-04,20,Male,Negative,,,22.6,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,4.4,2023-10-05,,,,2025-06-03
+DRTB-0076,Kisumu,2023-06-05,44,Female,Negative,,,19.7,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),91,9.2,2023-08-02,,,,2025-06-04
+DRTB-0853,Homa Bay,2023-06-05,42,Male,Negative,,,17.4,Yes,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),91,12.9,2023-12-31,,,,2025-06-04
+DRTB-1151,Siaya,2023-06-06,46,Male,Positive,184.0,No,17.9,No,Yes,No,No,1+,Pre-XDR,Longer individualised (18-20 mo),93,6.9,,2023-10-07,,,2023-10-07
+DRTB-1125,Kakamega,2023-06-07,40,Male,Positive,,No,20.7,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),79,10.1,2023-08-07,,,,2025-06-06
+DRTB-0643,Homa Bay,2023-06-11,28,Male,Negative,,,21.7,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),78,16.9,2024-01-07,,,,2025-06-10
+DRTB-0832,Kisumu,2023-06-11,60,Female,Negative,,,19.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,6.0,2023-07-14,,,,2025-06-10
+DRTB-0288,Homa Bay,2023-06-13,40,Male,Negative,,,22.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,43.2,2023-10-09,,,,2025-06-12
+DRTB-0583,Busia,2023-06-14,60,Male,Negative,,,14.2,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),78,25.4,,2023-06-29,,,2023-06-29
+DRTB-0243,Busia,2023-06-15,45,Female,Negative,,,20.5,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),77,12.1,2023-10-14,,,,2025-06-14
+DRTB-0895,Migori,2023-06-16,22,Female,Negative,,,21.0,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,13.9,2023-09-11,,,,2025-06-15
+DRTB-1120,Kakamega,2023-06-18,27,Female,Negative,,,22.9,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),81,5.3,2023-08-16,,,,2025-06-17
+DRTB-1192,Kakamega,2023-06-18,42,Female,Negative,,,19.0,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),76,14.5,2023-07-20,,,,2025-06-17
+DRTB-0913,Busia,2023-06-19,57,Female,Negative,,,16.8,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,16.3,2023-10-18,,,,2025-06-18
+DRTB-0112,Siaya,2023-06-20,20,Male,Negative,,,16.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),89,20.3,2023-07-17,,,,2025-06-19
+DRTB-0464,Homa Bay,2023-06-20,19,Male,Positive,427.0,Yes,22.2,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),78,33.1,2023-11-15,,,,2025-06-19
+DRTB-0657,Kakamega,2023-06-20,29,Male,Negative,,,16.1,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),84,17.6,2025-01-12,,,,2025-06-19
+DRTB-0575,Kisumu,2023-06-21,38,Male,Negative,,,19.4,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),98,14.8,2023-08-22,2024-03-11,,,2024-03-11
+DRTB-0709,Kakamega,2023-06-21,34,Male,Positive,,Yes,16.7,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,12.9,,2023-12-17,,,2023-12-17
+DRTB-1107,Homa Bay,2023-06-21,24,Male,Negative,,,24.7,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),75,34.6,2024-01-17,,2024-04-19,,2024-04-19
+DRTB-0099,Kisumu,2023-06-23,40,Male,Negative,,,,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,4.3,2024-04-17,,,,2025-06-22
+DRTB-0121,Siaya,2023-06-23,44,Male,Negative,,,19.2,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),85,8.8,2023-08-19,,,,2025-06-22
+DRTB-0039,Kakamega,2023-06-25,40,Female,Negative,,,23.4,Yes,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,7.1,2023-10-26,,,,2025-06-24
+DRTB-0858,Siaya,2023-06-25,59,Male,Negative,,,19.5,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),82,40.1,2024-04-23,,,,2025-06-24
+DRTB-0834,Migori,2023-06-26,40,Female,Negative,,,20.0,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,31.1,2024-01-20,,,,2025-06-25
+DRTB-0414,Siaya,2023-07-01,42,Male,Negative,,,14.9,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),84,10.8,2024-06-28,,,,2025-06-30
+DRTB-0758,Siaya,2023-07-01,22,Male,Negative,,,20.9,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),92,8.8,2023-07-28,,2023-09-13,,2023-09-13
+DRTB-0269,Kakamega,2023-07-02,41,Male,Negative,,,18.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),80,6.2,2023-10-28,,,,2025-07-01
+DRTB-0915,Migori,2023-07-02,30,Male,Positive,175.0,Yes,17.5,No,Yes,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),81,3.5,2024-03-31,2024-06-15,,,2024-06-15
+DRTB-1044,Kakamega,2023-07-02,35,Female,Positive,793.0,Yes,18.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),62,13.5,2024-06-27,2025-01-30,,,2025-01-30
+DRTB-0460,Migori,2023-07-03,35,Male,Negative,,,21.0,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,33.1,2023-08-03,,,,2025-07-02
+DRTB-0460,Migori,2023-07-03,35,Male,Negative,,,21.0,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,33.1,2023-08-03,,,,2025-07-02
+DRTB-1187,Kisumu,2023-07-03,24,Male,Positive,183.0,Yes,20.6,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,3.3,2023-07-31,,,,2025-07-02
+DRTB-0427,Kisumu,2023-07-04,64,Male,Negative,,,20.5,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,18.7,2023-08-05,,,,2025-07-03
+DRTB-0379,Kakamega,2023-07-05,34,Male,Negative,,,21.1,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,9.9,2023-09-01,,2024-02-06,,2024-02-06
+DRTB-0443,Homa Bay,2023-07-06,55,Female,Positive,332.0,Yes,20.5,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,62.2,2023-10-01,,,,2025-07-05
+DRTB-0590,Kakamega,2023-07-06,24,Male,Negative,,,17.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),68,9.7,,,2023-07-19,,2023-07-19
+DRTB-0665,Kisumu,2023-07-06,40,Male,Positive,166.0,Yes,19.4,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,2.9,,,2024-10-19,,2024-10-19
+DRTB-0538,Migori,2023-07-07,33,Male,Negative,,,16.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),99,26.3,2023-09-05,,,,2025-07-06
+DRTB-0475,Kisumu,2023-07-09,27,Female,Positive,,Yes,19.4,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),75,5.3,2024-08-04,,,,2025-07-08
+DRTB-0716,Kisumu,2023-07-09,23,Male,Positive,303.0,Yes,20.8,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),91,12.0,2023-09-07,,,,2025-07-08
+DRTB-0503,Kisumu,2023-07-12,40,Female,Positive,59.0,Yes,16.0,No,Yes,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),93,8.9,,2023-07-29,,,2023-07-29
+DRTB-0132,Kisumu,2023-07-13,34,Male,Negative,,,18.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),89,7.2,2023-11-12,,,,2025-07-12
+DRTB-0609,Kisumu,2023-07-13,36,Female,Positive,179.0,Yes,18.0,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,15.5,,2023-10-03,,,2023-10-03
+DRTB-1067,Migori,2023-07-13,51,Male,Negative,,,21.2,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,5.7,2023-08-15,,,,2025-07-12
+DRTB-0514,Migori,2023-07-14,33,Female,Negative,,,21.2,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,24.5,2023-09-14,,2024-09-08,,2024-09-08
+DRTB-0084,Homa Bay,2023-07-16,48,Male,Negative,,,23.0,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),91,14.8,2023-09-11,,,,2025-07-15
+DRTB-0797,Migori,2023-07-16,26,Male,Negative,,,19.0,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,9.7,2024-07-10,,,,2025-07-15
+DRTB-0640,Homa Bay,2023-07-17,64,Female,Negative,,,,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,22.4,2024-06-11,,,,2025-07-16
+DRTB-0793,Homa Bay,2023-07-17,47,Male,Positive,304.0,Yes,19.5,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),79,9.7,,2023-10-02,,,2023-10-02
+DRTB-0794,Siaya,2023-07-17,49,Male,Negative,,,20.7,No,No,No,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),84,18.7,2024-05-15,,,,2025-07-16
+DRTB-0362,Busia,2023-07-18,36,Female,Positive,343.0,Yes,19.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),90,21.1,2023-08-16,,,,2025-07-17
+DRTB-0664,Homa Bay,2023-07-18,21,Male,Negative,,,,No,Yes,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,10.6,2023-11-14,,2024-06-04,,2024-06-04
+DRTB-1186,Kakamega,2023-07-18,38,Female,Positive,94.0,Yes,18.4,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),97,15.5,2023-11-14,,,,2025-07-17
+DRTB-0152,Busia,2023-07-19,27,Male,Negative,,,19.7,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),100,5.0,2023-08-21,,,,2025-07-18
+DRTB-0482,Homa Bay,2023-07-19,22,Male,Negative,,,20.2,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),82,32.0,2023-09-16,,2024-04-13,,2024-04-13
+DRTB-0061,Homa Bay,2023-07-20,24,Female,Negative,,,21.9,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),85,6.8,2023-10-21,,,,2025-07-19
+DRTB-0872,Kisumu,2023-07-21,35,Male,Positive,517.0,Yes,,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),89,3.3,2023-08-18,,,,2025-07-20
+DRTB-0510,Homa Bay,2023-07-22,35,Male,Positive,,Yes,22.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),100,63.5,2023-10-23,,,,2025-07-21
+DRTB-0162,Kisumu,2023-07-24,42,Female,Negative,,,25.4,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),87,2.5,2024-07-19,,,,2025-07-23
+DRTB-0419,Busia,2023-07-24,38,Male,Positive,,Yes,18.9,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,15.2,,,2023-10-03,,2023-10-03
+DRTB-0070,Busia,2023-07-30,33,Female,Positive,409.0,Yes,14.0,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),89,10.0,,2024-02-19,,,2024-02-19
+DRTB-0293,Migori,2023-07-30,59,Female,Positive,310.0,No,19.0,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),95,13.5,2024-03-27,,,,2025-07-29
+DRTB-1066,Kisumu,2023-07-30,35,Male,Negative,,,20.4,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),97,4.1,2024-01-28,,2025-01-22,,2025-01-22
+DRTB-0730,Kisumu,2023-07-31,44,Male,Negative,,,18.7,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,2.9,2023-09-30,,,,2025-07-30
+DRTB-0182,Homa Bay,2023-08-01,31,Male,Negative,,,16.0,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),84,7.5,2023-12-26,,,,2025-07-31
+DRTB-0308,Homa Bay,2023-08-01,48,Female,Negative,,,17.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,27.2,,2024-01-12,,,2024-01-12
+DRTB-0499,Kisumu,2023-08-02,38,Female,Positive,208.0,Yes,22.1,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),94,7.0,2023-11-27,,,,2025-08-01
+DRTB-0647,Kakamega,2023-08-02,49,Male,Negative,,,20.2,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,8.7,2023-09-29,,,,2025-08-01
+DRTB-0445,Kakamega,2023-08-04,18,Female,Negative,,,20.0,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,4.4,2024-03-04,,,,2025-08-03
+DRTB-0256,Kisumu,2023-08-06,25,Female,Negative,,,16.3,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),96,5.1,2023-12-31,,,,2025-08-05
+DRTB-0353,Kisumu,2023-08-06,22,Female,Negative,,,20.6,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,6.8,2023-09-08,,,,2025-08-05
+DRTB-0432,Migori,2023-08-06,53,Male,Negative,,,20.5,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),78,9.3,,,2023-09-04,,2023-09-04
+DRTB-0893,Homa Bay,2023-08-09,45,Male,Positive,181.0,Yes,16.2,No,No,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),98,11.5,2024-05-04,,,,2025-08-08
+DRTB-0939,Kisumu,2023-08-09,30,Female,Positive,157.0,Yes,14.5,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,14.4,2023-11-07,,2024-07-13,,2024-07-13
+DRTB-0320,Homa Bay,2023-08-10,35,Female,Positive,281.0,Yes,19.6,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,9.0,2023-09-07,,,,2025-08-09
+DRTB-0767,Migori,2023-08-10,75,Female,Negative,,,,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,46.8,,,2023-10-31,,2023-10-31
+DRTB-0838,Kisumu,2023-08-12,34,Male,Negative,,,22.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,5.3,2023-09-12,,,,2025-08-11
+DRTB-0002,Migori,2023-08-15,50,Male,Negative,,,18.2,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),94,25.5,2023-10-12,2024-12-09,,,2024-12-09
+DRTB-0809,Kisumu,2023-08-15,32,Female,Negative,,,18.6,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,5.1,2023-10-16,,,,2025-08-14
+DRTB-0218,Kakamega,2023-08-16,39,Male,Positive,,Yes,17.4,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),100,3.5,,2024-09-15,,,2024-09-15
+DRTB-0523,Kakamega,2023-08-16,27,Female,Negative,,,19.3,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,30.1,,,2023-12-21,,2023-12-21
+DRTB-0338,Siaya,2023-08-17,27,Male,Negative,,,19.5,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),95,6.5,2023-12-14,,,,2025-08-16
+DRTB-0508,Homa Bay,2023-08-17,25,Male,Negative,,,19.6,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),73,30.6,2023-09-18,,2024-03-18,,2024-03-18
+DRTB-1166,Siaya,2023-08-17,40,Male,Negative,,,18.5,Yes,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,18.6,2024-03-15,,,,2025-08-16
+DRTB-0183,Kakamega,2023-08-18,36,Female,Positive,134.0,Yes,17.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,5.8,2023-11-18,,,,2025-08-17
+DRTB-1175,Homa Bay,2023-08-18,43,Female,Positive,92.0,Yes,15.0,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),83,5.9,2024-01-18,,,,2025-08-17
+DRTB-0389,Siaya,2023-08-19,31,Female,Positive,749.0,No,22.3,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),89,10.7,,2023-09-09,,,2023-09-09
+DRTB-0943,Kisumu,2023-08-19,41,Male,Positive,,Yes,21.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),86,11.1,2023-09-21,,,,2025-08-18
+DRTB-0087,Kisumu,2023-08-21,28,Male,Negative,,,21.0,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),89,4.0,2024-01-20,,,,2025-08-20
+DRTB-0319,Siaya,2023-08-21,41,Male,Positive,312.0,Yes,15.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,22.4,2023-10-23,,,,2025-08-20
+DRTB-0970,Migori,2023-08-21,26,Female,Negative,,,16.8,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),84,20.3,,,2023-10-15,,2023-10-15
+DRTB-0856,Kakamega,2023-08-22,31,Male,Positive,584.0,Yes,13.8,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),82,27.7,2024-02-21,,2024-09-27,,2024-09-27
+DRTB-0125,Migori,2023-08-23,20,Male,Negative,,,21.2,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),96,9.4,2024-04-19,,,,2025-08-22
+DRTB-0450,Siaya,2023-08-23,37,Female,Negative,,,23.9,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),82,16.4,,2023-09-27,,,2023-09-27
+DRTB-0655,Kisumu,2023-08-23,38,Male,Negative,,,15.1,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),79,5.4,,2024-05-22,,,2024-05-22
+DRTB-0638,Siaya,2023-08-24,67,Male,Negative,,,17.2,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),85,3.4,,,2023-11-11,,2023-11-11
+DRTB-0331,Kakamega,2023-08-25,22,Male,Positive,119.0,Yes,15.0,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),76,8.7,2024-02-19,,,,2025-08-24
+DRTB-1181,Busia,2023-08-25,29,Male,Positive,930.0,Yes,17.4,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),93,35.9,,,2023-12-21,,2023-12-21
+DRTB-0354,Kisumu,2023-08-26,18,Male,Negative,,,21.3,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,13.4,2023-12-27,,,,2025-08-25
+DRTB-1160,Kisumu,2023-08-26,34,Male,Positive,856.0,No,24.0,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),92,17.3,2023-11-21,,2024-03-07,,2024-03-07
+DRTB-0010,Siaya,2023-08-27,25,Male,Negative,,,12.5,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,10.8,2023-10-23,,,,2025-08-26
+DRTB-0567,Siaya,2023-08-27,28,Male,Negative,,,24.7,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),83,7.6,2023-12-28,,,,2025-08-26
+DRTB-0774,Kisumu,2023-08-28,21,Male,Negative,,,22.1,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,8.3,2023-10-25,2023-11-20,,,2023-11-20
+DRTB-0026,Kisumu,2023-08-29,67,Male,Positive,68.0,Yes,18.4,Yes,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),63,4.6,,2023-09-16,,,2023-09-16
+DRTB-0578,Homa Bay,2023-08-29,22,Male,Negative,,,21.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),74,13.7,2024-03-29,,2025-02-19,,2025-02-19
+DRTB-0335,Kisumu,2023-08-31,36,Male,Negative,,,,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),82,12.2,2023-10-30,,,,2025-08-30
+DRTB-0245,Kisumu,2023-09-04,41,Female,Positive,223.0,Yes,18.4,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),91,1.0,2024-06-27,,,,2025-09-03
+DRTB-0398,Migori,2023-09-05,30,Female,Positive,,Yes,18.8,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),91,36.6,2025-07-26,,,,2025-09-04
+DRTB-0656,Homa Bay,2023-09-05,33,Female,Negative,,,98.0,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),96,18.6,2023-12-04,,,,2025-09-04
+DRTB-0351,Homa Bay,2023-09-07,29,Male,Negative,,,22.3,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,21.6,2023-10-04,,,,2025-09-06
+DRTB-0769,Homa Bay,2023-09-07,38,Male,Positive,,Yes,19.3,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),84,23.7,2023-10-05,,2025-01-23,,2025-01-23
+DRTB-1005,Kakamega,2023-09-07,46,Female,Negative,,,20.6,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,4.9,2023-12-04,,,,2025-09-06
+DRTB-1029,Kakamega,2023-09-08,36,Female,Negative,,,16.9,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,11.9,2024-07-02,,,,2025-09-07
+DRTB-0630,Kakamega,2023-09-10,30,Male,Negative,,,23.3,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),82,12.7,,,2023-10-24,,2023-10-24
+DRTB-1140,Homa Bay,2023-09-11,21,Male,Positive,,Yes,15.9,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),97,8.6,,,2023-12-08,,2023-12-08
+DRTB-1061,Kisumu,2023-09-12,29,Male,Positive,124.0,Yes,22.0,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),90,4.1,2023-10-10,,,,2025-09-11
+DRTB-0401,Homa Bay,2023-09-13,42,Female,Positive,358.0,Yes,20.2,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,12.9,2023-11-12,,,,2025-09-12
+DRTB-0801,Kakamega,2023-09-13,47,Female,Negative,,,16.6,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),77,16.5,2023-11-12,2025-05-20,,,2025-05-20
+DRTB-0279,Busia,2023-09-14,18,Female,Positive,335.0,Yes,17.9,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,8.1,2023-10-13,2024-02-12,,,2024-02-12
+DRTB-0859,Homa Bay,2023-09-14,51,Female,Positive,,No,19.3,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),97,21.1,2024-01-14,,,2024-11-25,2024-11-25
+DRTB-0089,Kisumu,2023-09-16,61,Male,Negative,,,16.6,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,11.9,2024-03-17,,,,2025-09-15
+DRTB-0481,Kakamega,2023-09-16,30,Male,Negative,,,20.6,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,5.0,2024-02-16,,,,2025-09-15
+DRTB-1162,Kakamega,2023-09-17,34,Female,Negative,,,18.3,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,17.3,2023-11-16,,,,2025-09-16
+DRTB-0195,Homa Bay,2023-09-18,80,Male,Positive,356.0,Yes,18.7,Yes,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),76,17.9,2023-10-16,2023-11-12,,,2023-11-12
+DRTB-0364,Kisumu,2023-09-18,64,Female,Negative,,,17.2,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),100,3.3,2025-01-12,2025-05-04,,,2025-05-04
+DRTB-0721,Homa Bay,2023-09-19,30,Male,Positive,277.0,Yes,19.9,Yes,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),72,11.5,,2024-07-02,,,2024-07-02
+DRTB-0889,Busia,2023-09-19,66,Male,Negative,,,,Yes,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),65,32.3,2024-06-14,,2025-02-06,,2025-02-06
+DRTB-0927,Busia,2023-09-19,56,Female,Negative,,,18.3,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),93,15.1,2025-02-12,,,,2025-09-18
+DRTB-1011,Kakamega,2023-09-20,34,Male,Negative,,,18.2,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),84,22.5,2024-09-17,,,,2025-09-19
+DRTB-1085,Kakamega,2023-09-21,48,Male,Negative,,,17.9,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,18.6,2024-05-21,,,,2025-09-20
+DRTB-0776,Siaya,2023-09-22,50,Female,Negative,,,24.5,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),98,4.2,2023-12-19,2024-08-06,,,2024-08-06
+DRTB-0318,Kakamega,2023-09-23,56,Male,Negative,,,24.1,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,11.4,2023-10-20,,,,2025-09-22
+DRTB-0552,Kakamega,2023-09-23,42,Female,Negative,,,17.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,10.7,2023-11-19,2025-07-09,,,2025-07-09
+DRTB-0770,Kisumu,2023-09-23,36,Male,Negative,,,24.3,No,No,No,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),99,3.7,2024-01-21,,,,2025-09-22
+DRTB-1039,Busia,2023-09-24,24,Female,Negative,,,16.4,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,5.6,,,,,2025-09-23
+DRTB-1149,Busia,2023-09-24,34,Male,Negative,,,21.8,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),84,11.6,2023-11-22,,,,2025-09-23
+DRTB-0729,Kisumu,2023-09-26,21,Male,Negative,,,22.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,7.5,2024-01-22,2024-01-25,,,2024-01-25
+DRTB-0837,Homa Bay,2023-09-27,45,Male,Negative,,,20.5,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),96,9.0,2023-12-27,,,,2025-09-26
+DRTB-0229,Kakamega,2023-09-29,50,Male,Negative,,,21.3,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),93,6.9,2023-12-27,2024-08-30,,,2024-08-30
+DRTB-0285,Kisumu,2023-09-29,38,Female,Positive,344.0,No,18.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,5.0,2023-11-28,,,,2025-09-28
+DRTB-0771,Migori,2023-09-29,37,Male,Negative,,,22.0,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),56,18.0,2024-03-25,,,,2025-09-28
+DRTB-0085,Kisumu,2023-09-30,31,Male,Negative,,,22.0,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),81,8.0,2024-06-23,,,,2025-09-29
+DRTB-0548,Homa Bay,2023-09-30,46,Male,Negative,,,19.3,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),86,11.4,2023-11-30,,,,2025-09-29
+DRTB-0313,Siaya,2023-10-01,28,Male,Negative,,,19.7,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),93,5.2,2024-02-26,,,,2025-09-30
+DRTB-0156,Kakamega,2023-10-03,50,Male,Negative,,,22.3,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),96,14.9,2023-12-29,,,,2025-10-02
+DRTB-0493,Busia,2023-10-03,57,Male,Negative,,,22.0,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,10.6,2023-12-02,,,,2025-10-02
+DRTB-1145,Kisumu,2023-10-03,47,Female,Positive,259.0,Yes,18.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,3.3,2024-03-02,,,,2025-10-02
+DRTB-0024,Homa Bay,2023-10-06,43,Female,Negative,,,18.6,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,17.5,2023-12-05,2023-12-27,,,2023-12-27
+DRTB-0106,Kisumu,2023-10-06,36,Male,Negative,,,25.1,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,4.2,2024-08-02,,,,2025-10-05
+DRTB-0669,Kisumu,2023-10-07,25,Female,Positive,,Yes,23.7,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),74,3.4,2024-01-06,,,,2025-10-06
+DRTB-0821,Busia,2023-10-07,33,Male,Negative,,,23.8,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,19.8,2024-01-06,,,,2025-10-06
+DRTB-1086,Homa Bay,2023-10-07,41,Male,Positive,,Yes,21.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,22.7,2023-11-08,,2024-11-21,,2024-11-21
+DRTB-1051,Kisumu,2023-10-09,38,Male,Negative,,,21.7,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),85,8.8,2024-07-07,,,,2025-10-08
+DRTB-0444,Siaya,2023-10-10,40,Male,Negative,,,18.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,11.0,2024-01-11,,,,2025-10-09
+DRTB-0512,Kisumu,2023-10-13,60,Male,Positive,81.0,Yes,19.3,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),67,2.8,2024-01-14,,,,2025-10-12
+DRTB-0247,Homa Bay,2023-10-14,24,Female,Negative,,,,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),87,12.9,,2023-11-13,,,2023-11-13
+DRTB-0754,Siaya,2023-10-16,40,Female,Negative,,,19.7,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),77,9.7,2024-10-08,,,,2025-10-15
+DRTB-0784,Kisumu,2023-10-16,52,Female,Negative,,,20.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,8.3,2023-12-15,,,2024-09-26,2024-09-26
+DRTB-0595,Kisumu,2023-10-17,80,Male,Negative,,,24.0,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,14.3,2024-02-12,,2025-01-13,,2025-01-13
+DRTB-0971,Homa Bay,2023-10-17,59,Male,Negative,,,16.1,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),98,22.0,2024-01-18,,,,2025-10-16
+DRTB-0544,Siaya,2023-10-18,33,Male,Negative,,,19.1,Yes,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),95,6.5,,2023-12-31,,,2023-12-31
+DRTB-0064,Kisumu,2023-10-19,28,Male,Positive,,Yes,17.7,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),91,3.6,2024-02-17,,,,2025-10-18
+DRTB-0343,Siaya,2023-10-20,35,Female,Negative,,,19.0,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),80,41.5,2024-04-14,,,,2025-10-19
+DRTB-1113,Kisumu,2023-10-20,58,Male,Negative,,,20.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),81,3.1,2024-02-14,,,,2025-10-19
+DRTB-0309,Busia,2023-10-21,40,Male,Negative,,,19.4,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),72,20.6,2024-01-20,,2024-03-05,,2024-03-05
+DRTB-0403,Kakamega,2023-10-22,37,Female,Positive,,Yes,18.4,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),98,14.8,2023-12-23,,,,2025-10-21
+DRTB-0420,Kisumu,2023-10-23,37,Male,Positive,704.0,Yes,17.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,7.7,2024-07-16,,,,2025-10-22
+DRTB-0434,Homa Bay,2023-10-23,48,Female,Negative,,,14.1,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),99,20.4,,,2024-05-03,,2024-05-03
+DRTB-0501,Homa Bay,2023-10-24,43,Male,Negative,,,16.9,Yes,Yes,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),93,16.8,,2024-09-01,,,2024-09-01
+DRTB-0867,Kisumu,2023-10-24,67,Male,Positive,726.0,Yes,19.3,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),92,4.9,,2024-01-28,,,2024-01-28
+DRTB-1123,Kakamega,2023-10-25,32,Male,Negative,,,25.1,No,Yes,No,No,1+,Pre-XDR,Longer individualised (18-20 mo),95,8.1,2024-04-22,,,,2025-10-24
+DRTB-0321,Migori,2023-10-26,39,Female,Negative,,,16.6,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,10.3,2024-02-24,,2025-02-05,,2025-02-05
+DRTB-0582,Kisumu,2023-10-26,46,Female,Negative,,,17.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,2.1,2023-11-27,,,,2025-10-25
+DRTB-0689,Siaya,2023-10-26,37,Female,Negative,,,18.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,18.2,2024-03-25,,2024-04-28,,2024-04-28
+DRTB-0040,Homa Bay,2023-10-28,51,Female,Negative,,,21.5,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),87,8.6,2023-11-30,,,,2025-10-27
+DRTB-0166,Homa Bay,2023-10-28,45,Male,Positive,423.0,Yes,17.5,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),78,6.0,2024-06-23,2025-02-17,,,2025-02-17
+DRTB-0708,Siaya,2023-10-29,52,Male,Negative,,,20.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),80,7.3,,2024-02-13,,,2024-02-13
+DRTB-0035,Homa Bay,2023-10-30,40,Male,Negative,,,18.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),96,5.9,2024-01-25,,,,2025-10-29
+DRTB-0536,Busia,2023-11-02,48,Male,Negative,,,16.9,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),95,6.0,2023-12-02,,,,2025-11-01
+DRTB-0599,Busia,2023-11-02,62,Male,Negative,,,16.9,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,10.7,2024-07-29,,,,2025-11-01
+DRTB-0186,Migori,2023-11-03,26,Female,Negative,,,18.0,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),93,19.1,2023-11-30,,,,2025-11-02
+DRTB-0203,Homa Bay,2023-11-03,47,Female,Negative,,,15.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,9.7,2024-07-27,,,,2025-11-02
+DRTB-1136,Kakamega,2023-11-03,25,Male,Negative,,,18.8,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,11.2,2024-01-01,,,,2025-11-02
+DRTB-0350,Homa Bay,2023-11-04,55,Male,Positive,304.0,Yes,19.7,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),87,12.4,2024-05-05,,,,2025-11-03
+DRTB-0659,Homa Bay,2023-11-04,35,Male,Negative,,,16.9,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,7.3,2023-12-02,2024-09-23,,,2024-09-23
+DRTB-0250,Migori,2023-11-06,32,Female,Positive,,Yes,20.2,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),84,9.2,2023-12-07,,,,2025-11-05
+DRTB-1031,Homa Bay,2023-11-06,34,Female,Negative,,,15.7,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),90,30.3,2023-12-07,,,,2025-11-05
+DRTB-0131,Migori,2023-11-07,36,Male,Negative,,,22.8,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),92,63.8,2024-02-06,,,,2025-11-06
+DRTB-1096,Kakamega,2023-11-07,40,Male,Positive,,Yes,20.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),82,13.7,2023-12-08,,,,2025-11-06
+DRTB-0760,Kakamega,2023-11-10,45,Female,Positive,,Yes,19.0,No,No,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),66,8.6,2024-06-06,,,,2025-11-09
+DRTB-1195,Kisumu,2023-11-10,21,Female,Negative,,,19.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),85,13.8,2023-12-10,2024-07-23,,,2024-07-23
+DRTB-0565,Homa Bay,2023-11-11,44,Female,Negative,,,22.3,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,12.3,,,2024-06-03,,2024-06-03
+DRTB-0845,Kakamega,2023-11-11,49,Male,Positive,398.0,Yes,17.3,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,9.1,2024-05-10,,,,2025-11-10
+DRTB-1080,Kakamega,2023-11-12,55,Male,Negative,,,22.5,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),83,19.8,,2023-11-19,,,2023-11-19
+DRTB-0935,Homa Bay,2023-11-14,24,Female,Negative,,,21.1,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),75,16.9,2024-09-09,,,,2025-11-13
+DRTB-0314,Kakamega,2023-11-15,27,Male,Negative,,,18.0,No,Yes,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),83,17.6,2024-11-12,,,,2025-11-14
+DRTB-1023,Kakamega,2023-11-15,74,Male,Negative,,,18.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,12.7,2024-04-10,,,,2025-11-14
+DRTB-1023,Kakamega,2023-11-15,74,Male,Negative,,,18.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,12.7,2024-04-10,,,,2025-11-14
+DRTB-0346,Kisumu,2023-11-17,19,Female,Negative,,,17.9,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),97,6.4,2024-02-15,,,,2025-11-16
+DRTB-1018,Homa Bay,2023-11-17,47,Male,Negative,,,18.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,16.9,2024-01-14,,,,2025-11-16
+DRTB-0614,Kisumu,2023-11-19,18,Male,Positive,150.0,No,,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),92,11.0,,,2024-05-21,,2024-05-21
+DRTB-0402,Siaya,2023-11-20,52,Female,Negative,,,19.2,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,11.6,2024-03-19,,,,2025-11-19
+DRTB-0723,Kisumu,2023-11-20,47,Male,Positive,357.0,No,17.4,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),92,2.6,2024-01-22,2024-03-24,,,2024-03-24
+DRTB-0491,Siaya,2023-11-21,32,Male,Positive,579.0,Yes,19.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,7.9,2024-08-16,,,,2025-11-20
+DRTB-0246,Kisumu,2023-11-22,21,Male,Negative,,,23.5,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),81,1.9,2024-03-21,,2024-08-22,,2024-08-22
+DRTB-0270,Kakamega,2023-11-22,23,Female,Positive,133.0,Yes,21.2,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),80,20.4,2023-12-20,,,,2025-11-21
+DRTB-0018,Migori,2023-11-25,47,Female,Negative,,,19.0,No,No,No,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),98,12.4,2024-02-23,2025-09-22,,,2025-09-22
+DRTB-0531,Busia,2023-11-25,37,Male,Negative,,,19.5,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),93,13.7,2023-12-23,,,,2025-11-24
+DRTB-1169,Kisumu,2023-11-26,45,Male,Negative,,,19.8,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),70,5.0,2024-01-23,2025-09-24,,,2025-09-24
+DRTB-0208,Kisumu,2023-11-27,45,Female,Negative,,,17.6,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,8.4,2024-03-28,,,,2025-11-26
+DRTB-0395,Homa Bay,2023-11-28,42,Male,Negative,,,20.5,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),58,27.7,2023-12-27,,2024-04-06,,2024-04-06
+DRTB-0694,Siaya,2023-11-28,28,Male,Negative,,,20.9,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,6.0,2024-02-29,2024-04-10,,,2024-04-10
+DRTB-0869,Kisumu,2023-12-01,32,Male,Positive,153.0,Yes,18.4,Yes,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,7.4,,2024-07-11,,,2024-07-11
+DRTB-1060,Siaya,2023-12-02,32,Male,Negative,,,20.1,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),85,16.0,2024-01-02,,,,2025-12-01
+DRTB-0266,Kakamega,2023-12-03,53,Male,Negative,,,15.5,Yes,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),82,13.1,,,2023-12-29,,2023-12-29
+DRTB-0348,Homa Bay,2023-12-03,32,Male,Negative,,,19.4,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),100,32.2,2024-01-30,,,,2025-12-02
+DRTB-0727,Siaya,2023-12-04,32,Male,Positive,,Yes,23.0,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,23.6,2024-04-03,2024-06-08,,,2024-06-08
+DRTB-0453,Kisumu,2023-12-07,40,Male,Negative,,,18.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),84,4.4,,,,,2025-12-06
+DRTB-0739,Homa Bay,2023-12-08,46,Female,Negative,,,18.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,9.8,2025-01-03,,,,2025-12-07
+DRTB-0876,Busia,2023-12-10,49,Male,Positive,,Yes,15.6,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),89,35.4,,,2024-04-10,,2024-04-10
+DRTB-1040,Migori,2023-12-10,29,Male,Negative,,,18.2,Yes,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),63,24.2,2024-03-12,,,,2025-12-09
+DRTB-0437,Siaya,2023-12-11,39,Female,Negative,,,21.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),94,9.0,2024-01-13,,,,2025-12-10
+DRTB-0553,Kisumu,2023-12-12,28,Female,Negative,,,22.8,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),95,3.0,2024-08-11,,,,2025-12-11
+DRTB-0155,Homa Bay,2023-12-13,27,Female,Negative,,,21.2,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),96,2.6,2024-06-07,,2025-05-14,,2025-05-14
+DRTB-0262,Kisumu,2023-12-13,28,Male,Positive,308.0,Yes,19.1,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),96,5.8,2024-01-10,,,,2025-12-12
+DRTB-0275,Kisumu,2023-12-13,39,Female,Negative,,,20.5,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,5.2,2024-02-08,,,,2025-12-12
+DRTB-0284,Kisumu,2023-12-13,48,Female,Positive,999.0,Yes,15.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),72,17.6,,2024-02-09,,,2024-02-09
+DRTB-0110,Kisumu,2023-12-14,19,Male,Negative,,,,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),70,8.5,2024-03-13,,,,2025-12-13
+DRTB-0785,Kakamega,2023-12-15,33,Male,Negative,,,19.9,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),97,16.6,2024-02-16,,,,2025-12-14
+DRTB-0055,Kakamega,2023-12-17,43,Female,Negative,,,20.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,8.4,2024-03-15,,,,2025-12-16
+DRTB-0057,Siaya,2023-12-17,36,Male,Negative,,,23.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,15.8,2024-02-13,,,,2025-12-16
+DRTB-0926,Homa Bay,2023-12-17,38,Male,Negative,,,20.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),97,11.2,2024-06-14,,,,2025-12-16
+DRTB-1139,Migori,2023-12-17,38,Female,Positive,267.0,Yes,17.3,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,22.9,2024-04-13,,,,2025-12-16
+DRTB-0932,Siaya,2023-12-18,41,Male,Negative,,,19.4,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,22.3,,,2024-04-15,,2024-04-15
+DRTB-0877,Homa Bay,2023-12-20,33,Male,Positive,338.0,Yes,21.4,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),89,12.6,,,2024-04-28,,2024-04-28
+DRTB-0094,Busia,2023-12-21,38,Female,Negative,,,25.1,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),90,13.0,2024-02-22,,,,2025-12-20
+DRTB-0880,Homa Bay,2023-12-22,32,Male,Negative,,,20.1,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,7.5,2024-01-18,,,,2025-12-21
+DRTB-0005,Kisumu,2023-12-24,32,Female,Positive,360.0,Yes,22.2,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),85,7.3,2025-12-10,,,,2025-12-23
+DRTB-0020,Siaya,2023-12-24,22,Female,Positive,322.0,Yes,,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,12.2,2025-11-13,,,,2025-12-23
+DRTB-0789,Kakamega,2023-12-24,37,Male,Positive,,Yes,14.6,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),57,19.8,,,2024-02-05,,2024-02-05
+DRTB-1108,Kisumu,2023-12-25,39,Male,Negative,,,,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),83,6.1,2024-02-22,,,,2025-12-24
+DRTB-1065,Kakamega,2023-12-27,30,Male,Positive,74.0,No,15.9,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,7.7,,,2024-02-13,,2024-02-13
+DRTB-1097,Siaya,2023-12-28,72,Male,Negative,,,18.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,10.6,2024-02-26,,,,2025-12-27
+DRTB-0277,Homa Bay,2023-12-29,38,Male,Positive,,Yes,19.6,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,21.8,2024-06-25,,,,2025-12-28
+DRTB-0780,Kisumu,2023-12-30,26,Male,Positive,171.0,Yes,17.7,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),96,9.1,2024-04-25,2024-05-24,,,2024-05-24
+DRTB-0038,Kisumu,2024-01-01,53,Female,Negative,,,24.3,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),95,7.5,2024-09-24,,,,2025-12-31
+DRTB-0884,Homa Bay,2024-01-01,49,Male,Negative,,,14.7,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),79,16.9,2024-02-28,,,,2025-12-31
+DRTB-0054,Busia,2024-01-03,38,Female,Negative,,,18.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,11.7,2024-02-01,2025-02-16,,,2025-02-16
+DRTB-0546,Migori,2024-01-05,51,Male,Negative,,,22.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),81,35.5,2024-02-02,,,,2026-01-04
+DRTB-0021,Siaya,2024-01-06,74,Female,Positive,342.0,No,17.6,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,21.8,2024-02-02,,,,2026-01-05
+DRTB-0819,Kisumu,2024-01-06,43,Male,Positive,,Yes,23.4,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),84,3.3,,,2024-04-26,,2024-04-26
+DRTB-1106,Kisumu,2024-01-06,35,Male,Negative,,,23.9,No,No,No,No,1+,Pre-XDR,Longer individualised (18-20 mo),91,7.4,2024-03-05,,,,2026-01-05
+DRTB-0051,Homa Bay,2024-01-07,28,Female,Positive,,Yes,21.7,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),88,30.1,2024-04-07,,,,2026-01-06
+DRTB-0467,Kakamega,2024-01-08,20,Female,Positive,225.0,Yes,13.3,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),94,7.1,2024-07-07,,,,2026-01-07
+DRTB-0883,Kisumu,2024-01-09,26,Female,Negative,,,21.3,No,No,No,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),89,33.2,2025-07-31,,,,2026-01-08
+DRTB-0349,Kisumu,2024-01-10,22,Female,Negative,,,19.3,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),91,3.4,2024-03-12,,,,2026-01-09
+DRTB-0093,Migori,2024-01-12,37,Male,Negative,,,21.2,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,6.8,2024-07-13,,,,2026-01-11
+DRTB-0355,Kisumu,2024-01-13,45,Male,Negative,,,18.2,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,1.9,2024-04-15,,,,2026-01-12
+DRTB-0130,Kisumu,2024-01-14,52,Male,Negative,,,23.3,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),98,4.8,2024-02-10,,2025-07-09,,2025-07-09
+DRTB-0129,Kisumu,2024-01-16,40,Male,Positive,,Yes,17.2,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),87,7.6,2025-04-09,,,,2026-01-15
+DRTB-0252,Siaya,2024-01-17,68,Female,Positive,407.0,Yes,21.4,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,4.9,2024-03-14,,,,2026-01-16
+DRTB-1012,Siaya,2024-01-18,36,Male,Negative,,,20.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,10.9,2024-07-14,,,,2026-01-17
+DRTB-0212,Kakamega,2024-01-20,80,Male,Negative,,,21.4,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),95,28.9,,2024-03-23,,,2024-03-23
+DRTB-0953,Kakamega,2024-01-22,52,Male,Positive,363.0,Yes,19.6,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),89,6.2,2024-03-22,,,,2026-01-21
+DRTB-0430,Siaya,2024-01-23,39,Female,Positive,117.0,No,20.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,2.8,2024-04-19,,,,2026-01-22
+DRTB-0441,Siaya,2024-01-25,34,Male,Negative,,,20.1,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),86,17.9,,,2024-06-11,,2024-06-11
+DRTB-0850,Kisumu,2024-01-25,52,Male,Negative,,,20.4,Yes,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,9.0,2024-02-25,,,,2026-01-24
+DRTB-0472,Siaya,2024-01-26,53,Female,Positive,188.0,Yes,21.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),65,29.6,,,2024-01-27,,2024-01-27
+DRTB-0476,Busia,2024-01-30,43,Female,Negative,,,18.9,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),90,18.0,2024-06-29,,,,2026-01-29
+DRTB-0095,Kisumu,2024-01-31,44,Female,Negative,,,18.9,No,No,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),90,7.7,2024-04-30,,,,2026-01-30
+DRTB-0222,Kakamega,2024-02-02,25,Female,Negative,,,19.3,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),90,11.7,2024-03-30,,,,2026-02-01
+DRTB-0012,Homa Bay,2024-02-04,32,Female,Negative,,,,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),77,13.5,2024-03-04,,2024-04-01,,2024-04-01
+DRTB-0938,Homa Bay,2024-02-04,56,Male,Negative,,,18.7,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),78,9.1,2024-09-03,,,,2026-02-03
+DRTB-0302,Busia,2024-02-05,76,Female,Negative,,,22.9,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),90,15.6,2025-06-30,,,,2026-02-04
+DRTB-1082,Siaya,2024-02-06,55,Male,Positive,537.0,Yes,20.1,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),70,18.8,2024-10-06,,,,2026-02-05
+DRTB-0069,Kisumu,2024-02-07,33,Male,Positive,97.0,Yes,15.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),92,4.4,2024-04-04,,,,2026-02-06
+DRTB-0530,Homa Bay,2024-02-07,39,Female,Negative,,,19.7,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,30.6,2024-08-05,,,,2026-02-06
+DRTB-0592,Busia,2024-02-08,34,Male,Negative,,,20.6,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),97,7.6,2024-06-07,,,,2026-02-07
+DRTB-1062,Kakamega,2024-02-08,56,Female,Negative,,,15.8,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),99,22.7,2025-01-30,,,,2026-02-07
+DRTB-1178,Migori,2024-02-08,39,Female,Negative,,,23.6,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),72,12.8,2024-03-08,,,,2026-02-07
+DRTB-0149,Siaya,2024-02-09,35,Male,Negative,,,23.8,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),62,32.4,,,2024-03-22,,2024-03-22
+DRTB-0436,Kakamega,2024-02-09,40,Female,Positive,,Yes,19.5,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),93,13.8,,2024-03-30,,,2024-03-30
+DRTB-1197,Busia,2024-02-12,21,Male,Negative,,,19.7,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),80,17.2,2024-03-16,,,,2026-02-11
+DRTB-0344,Kisumu,2024-02-13,53,Male,Negative,,,25.1,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,5.2,2024-03-17,,,,2026-02-12
+DRTB-0261,Migori,2024-02-14,27,Male,Positive,394.0,Yes,15.0,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),76,16.4,2024-03-16,,,,2026-02-13
+DRTB-0072,Homa Bay,2024-02-15,30,Male,Negative,,,15.7,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),80,33.3,2024-03-19,,2024-04-09,,2024-04-09
+DRTB-0951,Busia,2024-02-17,32,Male,Negative,,,18.6,No,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),78,16.6,,,2024-04-12,,2024-04-12
+DRTB-1079,Kisumu,2024-02-17,50,Male,Negative,,,24.8,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,5.5,2024-04-20,,,,2026-02-16
+DRTB-0985,Kakamega,2024-02-18,39,Male,Negative,,,21.8,No,Yes,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),94,1.8,2024-12-15,,,,2026-02-17
+DRTB-1013,Busia,2024-02-18,19,Male,Negative,,,20.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),73,5.7,2024-05-19,,,,2026-02-17
+DRTB-0639,Siaya,2024-02-20,80,Male,Negative,,,17.5,Yes,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),97,5.9,,2024-05-08,,,2024-05-08
+DRTB-0994,Siaya,2024-02-22,50,Male,Negative,,,18.3,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),79,4.5,2024-03-22,,,,2026-02-21
+DRTB-0824,Homa Bay,2024-02-23,40,Male,Negative,,,21.8,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),74,7.6,,,2024-03-04,,2024-03-04
+DRTB-0194,Siaya,2024-02-24,42,Male,Negative,,,,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,6.2,2025-01-16,,,,2026-02-23
+DRTB-0790,Kisumu,2024-02-24,34,Female,Positive,252.0,Yes,16.9,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,3.3,2025-09-16,2026-02-16,,,2026-02-16
+DRTB-1137,Migori,2024-02-24,26,Female,Negative,,,23.6,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,30.4,2024-05-23,,,,2026-02-23
+DRTB-0902,Migori,2024-02-25,40,Male,Negative,,,19.6,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),90,13.4,2024-03-23,,,,2026-02-24
+DRTB-1168,Migori,2024-02-26,34,Male,Positive,838.0,Yes,20.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,7.4,2024-03-29,,,,2026-02-25
+DRTB-0585,Kisumu,2024-02-27,36,Male,Negative,,,19.5,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),92,4.2,2024-03-25,,,,2026-02-26
+DRTB-0906,Kisumu,2024-02-27,26,Male,Negative,,,21.9,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,10.7,2024-03-26,,,,2026-02-26
+DRTB-0980,Siaya,2024-02-27,33,Female,Positive,786.0,Yes,21.5,Yes,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),96,5.5,2024-09-27,,,,2026-02-26
+DRTB-0851,Kisumu,2024-02-29,49,Male,Negative,,,20.3,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),100,3.4,2024-05-31,,,,2026-02-28
+DRTB-0230,Homa Bay,2024-03-02,38,Male,Negative,,,23.4,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,10.4,2025-03-26,,,,2026-03-02
+DRTB-1200,Kisumu,2024-03-02,50,Male,Positive,435.0,Yes,19.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,10.0,2024-03-29,,,,2026-03-02
+DRTB-0580,Siaya,2024-03-03,52,Male,Positive,,Yes,17.9,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,8.0,2024-05-04,2025-01-12,,,2025-01-12
+DRTB-0036,Busia,2024-03-04,27,Male,Positive,,Yes,20.6,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),87,14.1,2024-09-03,,,,2026-03-04
+DRTB-1076,Kisumu,2024-03-04,19,Female,Negative,,,18.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,5.2,2024-04-06,,,,2026-03-04
+DRTB-0375,Kisumu,2024-03-06,28,Female,Positive,710.0,Yes,20.2,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),81,11.6,2024-04-04,,2024-04-18,,2024-04-18
+DRTB-0747,Kisumu,2024-03-07,29,Female,Negative,,,21.4,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),73,2.1,2024-04-07,,,,2026-03-07
+DRTB-0846,Siaya,2024-03-08,34,Male,Positive,124.0,Yes,18.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,18.7,2024-08-04,,,,2026-03-08
+DRTB-0961,Homa Bay,2024-03-09,26,Male,Positive,,Yes,14.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),85,27.7,2024-04-05,,,,2026-03-09
+DRTB-0241,Homa Bay,2024-03-11,37,Female,Negative,,,19.6,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,4.2,2024-04-08,,,,2026-03-11
+DRTB-0737,Siaya,2024-03-11,34,Female,Negative,,,15.8,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,50.7,,2024-04-22,,,2024-04-22
+DRTB-0937,Homa Bay,2024-03-12,35,Female,Positive,98.0,Yes,20.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,8.4,2024-05-13,,,,2026-03-12
+DRTB-0718,Busia,2024-03-14,64,Female,Positive,339.0,Yes,15.0,No,No,No,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),84,7.1,,,2024-06-15,,2024-06-15
+DRTB-0940,Migori,2024-03-14,22,Female,Positive,223.0,Yes,,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,22.6,2024-07-12,,,,2026-03-14
+DRTB-1148,Kisumu,2024-03-14,52,Male,Positive,432.0,Yes,16.9,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,3.3,2024-07-15,,,,2026-03-14
+DRTB-0073,Kakamega,2024-03-15,35,Female,Negative,,,16.7,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),95,12.2,2024-06-11,,2024-12-25,,2024-12-25
+DRTB-0374,Busia,2024-03-15,42,Male,Positive,,Yes,16.7,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),49,10.2,,2024-03-20,,,2024-03-20
+DRTB-1146,Busia,2024-03-16,26,Male,Negative,,,25.0,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,10.3,2024-08-14,,,,2026-03-16
+DRTB-0265,Migori,2024-03-17,44,Male,Negative,,,21.3,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),74,12.9,,,,,2026-03-17
+DRTB-0278,Kisumu,2024-03-17,50,Male,Positive,681.0,Yes,19.5,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),95,4.7,2024-04-19,,,,2026-03-17
+DRTB-0632,Kakamega,2024-03-17,35,Male,Negative,,,19.8,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,8.6,2024-05-19,,,,2026-03-17
+DRTB-0101,Kisumu,2024-03-18,28,Male,Negative,,,16.7,No,Yes,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,5.0,2024-05-19,,,,2026-03-18
+DRTB-0841,Migori,2024-03-18,33,Male,Negative,,,21.5,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),80,34.3,,2024-10-31,,,2024-10-31
+DRTB-0726,Siaya,2024-03-20,41,Male,Negative,,,22.0,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),84,15.4,2024-05-22,,2024-06-22,,2024-06-22
+DRTB-1156,Homa Bay,2024-03-24,21,Female,Negative,,,16.0,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),78,5.0,,,2024-10-31,,2024-10-31
+DRTB-0968,Migori,2024-03-28,55,Male,Negative,,,21.7,No,No,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),98,29.4,2024-06-25,,,,2026-03-28
+DRTB-0291,Kisumu,2024-03-30,31,Male,Negative,,,,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,10.0,2024-07-31,,,,2026-03-30
+DRTB-1101,Migori,2024-03-30,24,Female,Negative,,,21.3,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),83,18.2,2024-05-27,,,,2026-03-30
+DRTB-0080,Migori,2024-03-31,52,Female,Positive,166.0,Yes,23.8,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),80,16.2,2024-06-27,2025-04-02,,,2025-04-02
+DRTB-0339,Kisumu,2024-03-31,25,Female,Positive,209.0,Yes,16.2,No,Yes,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),92,4.1,2024-08-29,,,,2026-03-31
+DRTB-0627,Homa Bay,2024-04-02,39,Female,Positive,1088.0,Yes,15.5,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),96,7.3,2024-06-03,,,,2026-04-02
+DRTB-0804,Siaya,2024-04-03,44,Female,Positive,180.0,Yes,18.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,9.3,2024-06-01,,,,2026-04-03
+DRTB-0075,Kisumu,2024-04-04,41,Female,Negative,,,21.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,4.3,2024-05-05,,,,2026-04-04
+DRTB-0216,Kisumu,2024-04-04,45,Male,Positive,205.0,No,18.3,No,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,3.7,2025-07-01,,,,2026-04-04
+DRTB-0259,Kakamega,2024-04-05,32,Female,Negative,,,17.6,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),69,33.7,,,2024-08-07,,2024-08-07
+DRTB-0485,Siaya,2024-04-08,44,Male,Negative,,,24.1,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),88,3.6,2024-06-07,,,,2026-04-08
+DRTB-0803,Kisumu,2024-04-10,45,Male,Negative,,,21.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),73,6.9,2024-11-07,,,2025-07-30,2025-07-30
+DRTB-0668,Kisumu,2024-04-12,43,Female,Positive,,Yes,12.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),79,17.4,,2024-04-24,,,2024-04-24
+DRTB-1131,Homa Bay,2024-04-12,52,Male,Positive,,Yes,18.1,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),80,34.3,,2024-05-13,,,2024-05-13
+DRTB-0654,Kisumu,2024-04-13,39,Male,Negative,,,21.4,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),86,5.0,,,2024-11-05,,2024-11-05
+DRTB-1091,Kakamega,2024-04-15,31,Male,Negative,,,19.8,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,10.2,2024-07-14,,2024-07-20,,2024-07-20
+DRTB-0857,Kisumu,2024-04-16,36,Male,Negative,,,20.0,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,6.2,2024-07-12,,,,2026-04-16
+DRTB-1087,Homa Bay,2024-04-17,47,Male,Negative,,,19.1,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),71,18.1,2024-09-17,,2025-04-01,,2025-04-01
+DRTB-0566,Kisumu,2024-04-19,29,Female,Positive,459.0,Yes,18.6,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),79,8.9,,2024-05-20,,,2024-05-20
+DRTB-0863,Kisumu,2024-04-19,46,Female,Positive,48.0,Yes,23.2,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),94,4.7,2024-08-19,,,,2026-04-19
+DRTB-0506,Migori,2024-04-24,42,Female,Positive,190.0,Yes,16.7,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),93,12.7,2024-09-18,,,,2026-04-24
+DRTB-0594,Kakamega,2024-04-26,31,Male,Positive,219.0,Yes,16.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,14.7,2024-05-29,,,,2026-04-26
+DRTB-0907,Kakamega,2024-04-26,34,Male,Negative,,,20.9,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),100,14.5,2024-10-20,,,,2026-04-26
+DRTB-0418,Siaya,2024-04-28,73,Male,Positive,418.0,Yes,21.5,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),89,6.0,,,2024-07-27,,2024-07-27
+DRTB-0146,Kakamega,2024-04-30,20,Male,Positive,326.0,Yes,20.1,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,11.1,2024-06-01,,,2026-02-12,2026-02-12
+DRTB-0225,Kisumu,2024-04-30,42,Female,Positive,189.0,Yes,17.8,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),68,12.8,2024-06-29,,,2026-03-02,2026-03-02
+DRTB-0220,Migori,2024-05-02,40,Female,Positive,569.0,Yes,19.2,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,10.7,2024-06-02,,,,2026-05-02
+DRTB-0815,Migori,2024-05-03,22,Female,Negative,,,19.3,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,17.1,2024-07-30,,,,2026-05-03
+DRTB-1071,Busia,2024-05-03,36,Female,Positive,206.0,Yes,20.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),97,8.3,2024-07-05,,,,2026-05-03
+DRTB-0761,Homa Bay,2024-05-04,36,Female,Negative,,,19.1,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),86,50.4,2024-06-04,,,2024-09-12,2024-09-12
+DRTB-0811,Busia,2024-05-06,18,Male,Negative,,,21.1,No,Yes,Yes,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),70,14.8,2025-07-30,,,,2026-05-06
+DRTB-0023,Migori,2024-05-08,39,Female,Positive,600.0,No,20.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),96,12.1,2024-07-09,,,,2026-05-08
+DRTB-0871,Siaya,2024-05-08,30,Male,Negative,,,17.6,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,28.4,2024-07-10,,,,2026-05-08
+DRTB-0547,Busia,2024-05-09,35,Male,Negative,,,16.6,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),82,17.8,,,2024-09-06,,2024-09-06
+DRTB-0751,Kakamega,2024-05-10,44,Female,Negative,,,19.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,5.6,2024-08-11,,,,2026-05-10
+DRTB-0899,Migori,2024-05-10,49,Female,Negative,,,20.3,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),94,14.4,2024-06-08,,,,2026-05-10
+DRTB-0921,Siaya,2024-05-10,52,Female,Negative,,,20.0,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,5.0,,2024-06-01,,,2024-06-01
+DRTB-0996,Homa Bay,2024-05-10,29,Male,Positive,535.0,Yes,24.8,Yes,Yes,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),88,13.6,2024-07-10,,,,2026-05-10
+DRTB-1022,Homa Bay,2024-05-10,52,Male,Negative,,,17.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,31.4,,,2024-12-09,,2024-12-09
+DRTB-1198,Busia,2024-05-10,34,Female,Negative,,,,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,8.1,2024-07-11,,,,2026-05-10
+DRTB-0541,Homa Bay,2024-05-11,30,Female,Negative,,,22.8,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),99,6.2,2024-07-10,2024-09-23,,,2024-09-23
+DRTB-0118,Siaya,2024-05-12,52,Male,Positive,,Yes,20.5,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),83,18.1,2024-07-13,,,,2026-05-12
+DRTB-0019,Migori,2024-05-13,18,Female,Negative,,,26.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,9.6,2024-07-14,,,,2026-05-13
+DRTB-1025,Busia,2024-05-14,64,Male,Negative,,,19.3,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),80,26.1,,2024-10-07,,,2024-10-07
+DRTB-0526,Siaya,2024-05-15,42,Male,Positive,535.0,Yes,15.4,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),89,8.0,,2024-06-14,,,2024-06-14
+DRTB-0611,Kakamega,2024-05-18,50,Male,Positive,,Yes,16.5,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,9.5,,2024-11-27,,,2024-11-27
+DRTB-0623,Busia,2024-05-18,30,Female,Positive,431.0,Yes,21.9,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,16.2,2024-11-15,,,,2026-05-18
+DRTB-0134,Siaya,2024-05-23,37,Female,Negative,,,14.5,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),61,20.3,2024-11-20,,2025-10-29,,2025-10-29
+DRTB-0813,Kakamega,2024-05-23,32,Female,Negative,,,,No,Yes,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),81,31.7,2025-02-19,,,,2026-05-23
+DRTB-0041,Kisumu,2024-05-24,24,Female,Negative,,,19.7,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),80,3.0,2024-09-18,,,,2026-05-24
+DRTB-0047,Kisumu,2024-05-24,73,Female,Positive,312.0,No,21.8,Yes,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),92,8.7,2024-10-18,,,,2026-05-24
+DRTB-0336,Kisumu,2024-05-24,26,Male,Negative,,,22.0,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),87,13.3,2024-09-18,,,,2026-05-24
+DRTB-0866,Kisumu,2024-05-25,57,Female,Positive,183.0,Yes,19.9,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),96,10.9,2024-08-20,,,,2026-05-25
+DRTB-0942,Kakamega,2024-05-31,55,Male,Negative,,,15.6,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,3.5,2024-08-31,,,,2026-05-31
+DRTB-0083,Homa Bay,2024-06-01,33,Male,Negative,,,19.9,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),92,33.6,2024-09-26,,,2025-01-19,2025-01-19
+DRTB-0126,Migori,2024-06-01,33,Female,Negative,,,20.5,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),89,30.3,2024-07-01,,,,2026-06-01
+DRTB-0325,Migori,2024-06-03,30,Female,Positive,270.0,Yes,19.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,12.4,2024-10-02,,,,2026-06-03
+DRTB-0725,Homa Bay,2024-06-04,24,Male,Negative,,,21.5,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,14.5,2024-07-03,,,,2026-06-04
+DRTB-0854,Kisumu,2024-06-04,41,Female,Positive,237.0,No,19.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,9.0,2024-08-05,,,,2026-06-04
+DRTB-1143,Busia,2024-06-04,44,Female,Negative,,,15.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),83,23.0,2024-10-01,,,,2026-06-04
+DRTB-0478,Busia,2024-06-06,27,Female,Negative,,,17.8,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),76,8.1,2024-10-01,,,,2026-06-06
+DRTB-0570,Kakamega,2024-06-06,30,Male,Negative,,,20.1,No,Yes,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),59,40.8,2025-02-28,,,,2026-06-06
+DRTB-0468,Kisumu,2024-06-07,51,Female,Negative,,,18.8,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),90,3.1,2024-09-02,2026-04-12,,,2026-04-12
+DRTB-1102,Kisumu,2024-06-08,25,Male,Negative,,,19.6,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),90,16.4,2024-12-06,,,,2026-06-08
+DRTB-0197,Kakamega,2024-06-09,48,Male,Negative,,,19.1,No,Yes,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),95,14.4,,2024-08-02,,,2024-08-02
+DRTB-0394,Siaya,2024-06-09,48,Female,Positive,,Yes,15.6,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),86,20.5,,2024-08-21,,,2024-08-21
+DRTB-0495,Kisumu,2024-06-09,33,Female,Negative,,,20.6,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,16.9,2024-08-05,,,,2026-06-09
+DRTB-0964,Homa Bay,2024-06-11,62,Female,Negative,,,18.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),84,20.0,,2024-06-15,,,2024-06-15
+DRTB-0622,Siaya,2024-06-14,33,Male,Negative,,,24.6,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),78,12.1,2025-11-04,,,,2026-06-14
+DRTB-0634,Busia,2024-06-14,51,Female,Positive,120.0,Yes,20.4,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,4.6,2024-07-14,,,,2026-06-14
+DRTB-0049,Busia,2024-06-15,23,Male,Negative,,,19.8,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,18.3,2024-08-16,,,,2026-06-15
+DRTB-0658,Migori,2024-06-16,25,Female,Negative,,,17.0,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),89,24.9,2024-10-16,,,,2026-06-16
+DRTB-0537,Busia,2024-06-17,44,Male,Negative,,,19.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),95,12.4,2025-02-09,,,,2026-06-17
+DRTB-0950,Kakamega,2024-06-18,18,Female,Negative,,,20.6,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,7.3,2024-08-15,,,,2026-06-18
+DRTB-0009,Homa Bay,2024-06-20,38,Female,Negative,,,,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),74,34.6,2024-07-23,,,,2026-06-20
+DRTB-0100,Kakamega,2024-06-21,32,Male,Negative,,,24.9,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,13.3,2024-10-16,,,,2026-06-21
+DRTB-0674,Siaya,2024-06-22,37,Male,Negative,,,19.5,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),85,10.2,,,2024-08-29,,2024-08-29
+DRTB-0135,Homa Bay,2024-06-25,42,Male,Positive,,Yes,19.3,Yes,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),97,8.8,2024-09-26,,,,2026-06-25
+DRTB-0713,Siaya,2024-06-25,32,Male,Negative,,,22.4,No,Yes,No,No,1+,Pre-XDR,Short all-oral (6 mo),93,3.6,2025-01-19,,,,2026-06-25
+DRTB-0525,Busia,2024-06-29,34,Male,Negative,,,19.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),87,12.7,2024-10-24,,,,2026-06-29
+DRTB-1009,Kisumu,2024-06-30,21,Male,Negative,,,24.5,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,10.3,2024-07-27,,,,2026-06-30
+DRTB-0765,Kisumu,2024-07-01,27,Male,Negative,,,18.7,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,4.6,2024-08-31,,2024-12-08,,2024-12-08
+DRTB-0934,Siaya,2024-07-01,20,Male,Negative,,,22.4,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,10.3,2024-07-28,,2024-11-16,,2024-11-16
+DRTB-0515,Kisumu,2024-07-02,42,Male,Negative,,,18.6,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),85,6.4,2024-09-02,,,,2026-06-30
+DRTB-1104,Siaya,2024-07-02,47,Female,Negative,,,18.2,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),94,20.2,2024-09-29,,,,2026-06-30
+DRTB-0272,Kisumu,2024-07-03,35,Male,Positive,,Yes,18.2,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),87,2.3,,2024-09-28,,,2024-09-28
+DRTB-0301,Busia,2024-07-03,56,Male,Negative,,,21.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,24.4,2024-08-02,,,,2026-06-30
+DRTB-0532,Kakamega,2024-07-04,39,Female,Positive,80.0,Yes,21.8,No,Yes,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),86,17.5,2024-10-04,,2025-04-01,,2025-04-01
+DRTB-1046,Kisumu,2024-07-04,37,Male,Negative,,,24.3,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),94,7.0,,,2025-04-26,,2025-04-26
+DRTB-0529,Siaya,2024-07-05,68,Male,Positive,388.0,Yes,21.4,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,18.5,2024-11-03,,,,2026-06-30
+DRTB-0936,Siaya,2024-07-05,43,Female,Positive,,Yes,20.2,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),76,9.3,2025-05-04,,,,2026-06-30
+DRTB-0088,Migori,2024-07-06,24,Female,Negative,,,16.7,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,11.0,,2024-10-25,,,2024-10-25
+DRTB-0176,Migori,2024-07-06,40,Male,Negative,,,19.7,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),71,24.0,,,2025-03-16,,2025-03-16
+DRTB-0764,Busia,2024-07-06,46,Female,Negative,,,21.3,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),84,13.9,2024-12-03,2025-07-06,,,2025-07-06
+DRTB-0799,Siaya,2024-07-06,49,Male,Negative,,,22.1,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),88,26.7,2024-09-04,,,,2026-06-30
+DRTB-0108,Kisumu,2024-07-07,21,Female,Negative,,,18.6,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),90,3.9,2024-08-07,,,,2026-06-30
+DRTB-0297,Kisumu,2024-07-08,37,Male,Positive,247.0,Yes,18.7,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),95,1.7,2025-08-01,,,,2026-06-30
+DRTB-0593,Busia,2024-07-09,34,Male,Positive,92.0,Yes,13.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),93,15.7,2024-10-07,,2024-10-30,,2024-10-30
+DRTB-0304,Kakamega,2024-07-12,36,Male,Negative,,,19.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,3.2,2024-10-13,,,,2026-06-30
+DRTB-0447,Siaya,2024-07-12,28,Male,Negative,,,15.7,No,No,No,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),94,20.0,2024-10-08,,,,2026-06-30
+DRTB-1121,Kisumu,2024-07-12,27,Female,Positive,355.0,No,22.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,11.5,2025-01-05,,,,2026-06-30
+DRTB-0139,Kakamega,2024-07-13,54,Male,Negative,,,18.2,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),96,9.8,2024-08-13,,,,2026-06-30
+DRTB-0376,Homa Bay,2024-07-13,27,Male,Positive,147.0,No,15.5,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),73,5.2,,,2024-11-11,,2024-11-11
+DRTB-0160,Kisumu,2024-07-14,33,Male,Negative,,,22.3,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),92,11.1,2024-10-13,,,,2026-06-30
+DRTB-0306,Homa Bay,2024-07-14,25,Female,Positive,235.0,Yes,19.7,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,23.6,2025-08-11,,,,2026-06-30
+DRTB-1100,Siaya,2024-07-14,19,Female,Positive,171.0,Yes,24.3,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),92,26.8,2024-11-14,,,,2026-06-30
+DRTB-0645,Kakamega,2024-07-16,27,Male,Positive,1400.0,Yes,17.1,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),79,15.1,2024-10-12,,,,2026-06-30
+DRTB-0052,Busia,2024-07-18,46,Female,Negative,,,16.2,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),77,7.1,2024-12-17,,,,2026-06-30
+DRTB-0215,Siaya,2024-07-18,24,Male,Positive,,No,20.7,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),77,6.5,2024-09-15,,2024-10-06,,2024-10-06
+DRTB-0386,Kakamega,2024-07-18,56,Female,Negative,,,16.0,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),93,19.4,2024-10-17,,2025-09-20,,2025-09-20
+DRTB-0812,Kisumu,2024-07-18,38,Female,Positive,,Yes,22.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),78,9.7,2024-09-18,,2024-12-16,,2024-12-16
+DRTB-0377,Busia,2024-07-19,35,Male,Negative,,,20.5,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),89,23.8,2024-08-18,,,,2026-06-30
+DRTB-1154,Kisumu,2024-07-20,25,Female,Negative,,,16.8,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),88,10.0,2024-12-19,,,,2026-06-30
+DRTB-0690,Kisumu,2024-07-21,45,Male,Negative,,,20.5,Yes,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,6.8,2025-03-15,,,,2026-06-30
+DRTB-1126,Migori,2024-07-22,20,Male,Negative,,,20.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,17.6,2024-09-22,,,,2026-06-30
+DRTB-0586,Siaya,2024-07-23,49,Female,Negative,,,18.8,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,18.8,2024-10-23,,,,2026-06-30
+DRTB-0117,Siaya,2024-07-24,43,Female,Positive,,Yes,,No,No,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),95,10.3,2025-02-21,,,,2026-06-30
+DRTB-0372,Homa Bay,2024-07-24,26,Male,Negative,,,17.7,No,Yes,No,No,1+,RR/MDR,Longer individualised (18-20 mo),99,14.3,,,2024-10-13,,2024-10-13
+DRTB-0990,Kisumu,2024-07-24,41,Female,Negative,,,20.3,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),99,5.7,2025-03-23,,,,2026-06-30
+DRTB-0433,Siaya,2024-07-25,19,Male,Negative,,,18.0,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,19.5,,,2025-01-04,,2025-01-04
+DRTB-0651,Kakamega,2024-07-25,47,Male,Negative,,,19.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),87,18.6,2025-07-17,2026-01-26,,,2026-01-26
+DRTB-0417,Kakamega,2024-07-26,27,Male,Negative,,,18.3,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,7.1,2024-08-28,,,,2026-06-30
+DRTB-1038,Kisumu,2024-07-26,56,Female,Negative,,,20.9,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,10.3,2025-03-22,,,,2026-06-30
+DRTB-0704,Kisumu,2024-07-28,25,Male,Positive,155.0,Yes,17.8,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),95,3.1,2024-11-22,,,,2026-06-30
+DRTB-0787,Homa Bay,2024-07-30,38,Female,Positive,,Yes,17.8,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),98,22.8,,2024-12-06,,,2024-12-06
+DRTB-0330,Kakamega,2024-07-31,39,Male,Negative,,,14.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,7.4,2024-09-27,,,,2026-06-30
+DRTB-0449,Siaya,2024-07-31,30,Male,Negative,,,17.2,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),99,25.7,2024-10-26,,,,2026-06-30
+DRTB-0435,Kakamega,2024-08-04,68,Female,Positive,208.0,Yes,19.9,No,No,No,No,2+/3+,Pre-XDR,Short all-oral (6 mo),93,9.0,,2024-09-14,,,2024-09-14
+DRTB-0817,Migori,2024-08-04,31,Female,Positive,1030.0,Yes,21.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,16.3,2024-10-01,,,,2026-06-30
+DRTB-0757,Kisumu,2024-08-06,48,Female,Negative,,,20.7,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),93,5.0,2024-11-06,,2025-01-07,,2025-01-07
+DRTB-0333,Busia,2024-08-07,62,Male,Negative,,,17.7,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,18.7,2025-03-03,,,,2026-06-30
+DRTB-1093,Kakamega,2024-08-07,50,Female,Positive,263.0,No,22.0,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),72,17.8,2025-05-04,,,,2026-06-30
+DRTB-1124,Busia,2024-08-07,33,Female,Negative,,,18.4,No,No,No,Yes,1+,Pre-XDR,Short all-oral (6 mo),93,21.9,2025-08-04,,,,2026-06-30
+DRTB-0542,Migori,2024-08-08,39,Male,Negative,,,22.2,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),62,18.8,,,2025-03-15,,2025-03-15
+DRTB-0604,Kakamega,2024-08-08,41,Male,Negative,,,13.9,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,7.8,2024-10-05,,,,2026-06-30
+DRTB-1068,Kisumu,2024-08-08,45,Female,Negative,,,19.9,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,2.8,2025-05-03,,,,2026-06-30
+DRTB-0405,Kisumu,2024-08-09,30,Male,Negative,,,20.2,No,No,Yes,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),94,5.4,,,2024-12-17,,2024-12-17
+DRTB-0429,Migori,2024-08-10,41,Female,Positive,149.0,Yes,16.9,No,No,No,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),92,30.2,,2024-11-07,,,2024-11-07
+DRTB-1128,Migori,2024-08-10,25,Female,Positive,89.0,Yes,22.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,5.1,2024-10-08,2025-05-16,,,2025-05-16
+DRTB-1171,Kakamega,2024-08-12,22,Male,Negative,,,15.9,No,Yes,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),73,8.7,,,2025-06-16,,2025-06-16
+DRTB-1074,Kakamega,2024-08-13,52,Male,Negative,,,21.4,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),82,13.1,2024-10-14,2025-10-17,,,2025-10-17
+DRTB-0466,Kisumu,2024-08-14,26,Female,Positive,453.0,Yes,20.9,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),99,7.5,2024-09-13,,,,2026-06-30
+DRTB-0682,Siaya,2024-08-14,43,Male,Negative,,,22.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),85,13.8,2025-03-09,,,,2026-06-30
+DRTB-0572,Siaya,2024-08-15,27,Male,Positive,136.0,Yes,19.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),94,15.5,2024-10-12,,,,2026-06-30
+DRTB-0663,Kakamega,2024-08-15,30,Male,Positive,289.0,Yes,16.4,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),76,5.6,2024-09-17,,,,2026-06-30
+DRTB-0762,Migori,2024-08-15,61,Male,Negative,,,16.8,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),52,37.1,,,2024-12-12,,2024-12-12
+DRTB-0979,Busia,2024-08-17,35,Female,Negative,,,19.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),97,6.4,2024-11-18,,2025-01-04,,2025-01-04
+DRTB-0805,Siaya,2024-08-18,50,Male,Positive,438.0,Yes,20.8,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),99,10.0,2025-05-18,,,,2026-06-30
+DRTB-0027,Busia,2024-08-19,40,Male,Positive,,Yes,18.6,No,No,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),73,16.7,2024-10-16,,,,2026-06-30
+DRTB-0034,Migori,2024-08-22,42,Male,Positive,,Yes,26.2,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),40,46.5,,,2024-09-14,,2024-09-14
+DRTB-0715,Migori,2024-08-22,35,Male,Negative,,,21.1,No,No,No,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),77,8.5,2025-01-20,,,,2026-06-30
+DRTB-1000,Homa Bay,2024-08-22,35,Female,Negative,,,20.0,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),92,21.7,,,2024-09-18,,2024-09-18
+DRTB-0144,Kakamega,2024-08-23,35,Male,Negative,,,16.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,4.3,,2024-09-05,,,2024-09-05
+DRTB-1188,Siaya,2024-08-26,19,Male,Negative,,,19.9,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,23.9,2025-06-19,,,,2026-06-30
+DRTB-0448,Kisumu,2024-08-27,41,Female,Positive,,Yes,21.3,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),92,7.8,2024-11-24,,,,2026-06-30
+DRTB-0474,Kisumu,2024-08-27,27,Male,Negative,,,22.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,17.5,2024-12-25,,,,2026-06-30
+DRTB-1182,Busia,2024-08-29,22,Male,Negative,,,22.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),99,14.8,2024-12-29,,,,2026-06-30
+DRTB-0361,Homa Bay,2024-08-31,41,Male,Negative,,,22.5,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),85,22.1,2025-02-28,,,,2026-06-30
+DRTB-0975,Homa Bay,2024-08-31,34,Female,Negative,,,20.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,35.9,2024-11-01,,,,2026-06-30
+DRTB-0426,Siaya,2024-09-01,32,Male,Positive,,Yes,19.6,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,13.9,,,2024-09-13,,2024-09-13
+DRTB-1058,Kisumu,2024-09-01,21,Female,Positive,615.0,Yes,15.8,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,6.9,2025-04-29,,,,2026-06-30
+DRTB-0688,Kakamega,2024-09-02,31,Female,Positive,155.0,Yes,12.7,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),83,13.1,2025-01-30,,,,2026-06-30
+DRTB-0742,Busia,2024-09-02,59,Female,Negative,,,20.5,Yes,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),89,25.4,2024-10-03,,,,2026-06-30
+DRTB-1134,Siaya,2024-09-02,18,Female,Negative,,,19.6,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,25.9,2024-12-30,,,,2026-06-30
+DRTB-0092,Kakamega,2024-09-04,73,Female,Negative,,,19.9,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),82,12.1,2025-06-28,,,,2026-06-30
+DRTB-0959,Kisumu,2024-09-04,53,Female,Positive,,No,19.9,No,No,No,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),89,4.3,2025-05-04,,,,2026-06-30
+DRTB-0063,Kisumu,2024-09-05,36,Female,Positive,414.0,Yes,17.5,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,5.5,2024-10-03,2025-01-28,,,2025-01-28
+DRTB-0065,Homa Bay,2024-09-05,25,Female,Positive,,Yes,19.0,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),83,26.0,2024-10-08,,,,2026-06-30
+DRTB-0025,Siaya,2024-09-06,37,Male,Negative,,,19.7,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,18.6,2025-06-01,,,,2026-06-30
+DRTB-0743,Kisumu,2024-09-06,53,Male,Negative,,,19.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),80,7.3,2025-02-02,,,,2026-06-30
+DRTB-1177,Migori,2024-09-06,51,Male,Positive,223.0,Yes,21.4,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,6.4,2024-10-05,,,,2026-06-30
+DRTB-0068,Siaya,2024-09-10,45,Female,Negative,,,19.7,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),94,17.1,,2024-11-01,,,2024-11-01
+DRTB-0413,Busia,2024-09-10,46,Female,Negative,,,20.9,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,36.7,2024-12-12,,,,2026-06-30
+DRTB-0946,Siaya,2024-09-10,29,Female,Positive,232.0,No,20.2,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Short all-oral (6 mo),93,10.9,2025-01-08,,,,2026-06-30
+DRTB-0164,Siaya,2024-09-11,34,Female,Negative,,,21.2,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),74,10.2,2024-10-11,,,,2026-06-30
+DRTB-0698,Migori,2024-09-12,37,Female,Positive,,Yes,14.7,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),85,34.0,2025-04-09,,,,2026-06-30
+DRTB-0735,Kisumu,2024-09-13,20,Male,Negative,,,14.2,No,Yes,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),67,6.7,,,2024-11-06,,2024-11-06
+DRTB-0411,Siaya,2024-09-15,62,Male,Positive,190.0,Yes,15.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),68,9.6,,,2025-07-03,,2025-07-03
+DRTB-1127,Kakamega,2024-09-16,42,Male,Negative,,,16.2,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),55,13.6,,2024-09-21,,,2024-09-21
+DRTB-0679,Busia,2024-09-18,27,Female,Positive,133.0,Yes,18.4,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),96,5.3,2024-10-20,,,,2026-06-30
+DRTB-0455,Kisumu,2024-09-19,58,Male,Negative,,,,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),80,3.9,2024-12-18,,,,2026-06-30
+DRTB-0568,Homa Bay,2024-09-19,69,Male,Negative,,,14.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,10.8,2024-12-16,2024-12-21,,,2024-12-21
+DRTB-1069,Siaya,2024-09-19,28,Male,Positive,,No,19.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),89,6.1,2025-01-19,,,,2026-06-30
+DRTB-0675,Kisumu,2024-09-20,57,Female,Negative,,,19.8,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),90,5.6,2024-10-18,,,,2026-06-30
+DRTB-0037,Migori,2024-09-21,20,Female,Negative,,,16.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,5.9,2025-01-20,,,,2026-06-30
+DRTB-0533,Busia,2024-09-21,50,Female,Negative,,,23.0,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),98,16.0,2024-11-21,,,,2026-06-30
+DRTB-0825,Siaya,2024-09-21,39,Male,Negative,,,18.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,16.8,2024-11-21,,,,2026-06-30
+DRTB-0077,Kisumu,2024-09-22,22,Female,Positive,158.0,Yes,21.3,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),70,5.4,2024-11-22,,,,2026-06-30
+DRTB-0209,Homa Bay,2024-09-22,54,Female,Negative,,,21.6,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),59,27.3,2024-11-22,,2025-01-08,,2025-01-08
+DRTB-0264,Migori,2024-09-22,52,Male,Positive,,Yes,17.4,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),90,29.5,2025-02-21,,2025-03-06,,2025-03-06
+DRTB-0098,Kisumu,2024-09-23,34,Male,Positive,199.0,Yes,18.3,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),80,15.6,2025-03-25,,2025-10-24,,2025-10-24
+DRTB-0213,Kakamega,2024-09-25,49,Male,Negative,,,21.5,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),87,15.4,,2025-05-13,,,2025-05-13
+DRTB-0368,Migori,2024-09-25,31,Male,Positive,,Yes,17.7,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,19.5,2025-08-23,,,,2026-06-30
+DRTB-0133,Kisumu,2024-09-29,29,Male,Negative,,,20.0,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,29.2,2024-10-31,,2025-08-17,,2025-08-17
+DRTB-0539,Kakamega,2024-09-30,31,Female,Positive,211.0,Yes,18.6,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),100,21.6,2024-10-30,,,,2026-06-30
+DRTB-0772,Busia,2024-09-30,23,Male,Negative,,,16.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,10.6,2024-11-28,,,,2026-06-30
+DRTB-0870,Homa Bay,2024-09-30,34,Male,Positive,89.0,Yes,19.6,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,12.7,2024-12-27,,,,2026-06-30
+DRTB-0843,Migori,2024-10-01,34,Male,Negative,,,21.6,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),97,6.1,2024-11-01,,,,2026-06-30
+DRTB-0719,Migori,2024-10-02,40,Male,Positive,150.0,Yes,19.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),80,13.0,2024-11-28,,,,2026-06-30
+DRTB-0720,Kisumu,2024-10-03,30,Male,Negative,,,19.9,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),81,8.1,,,2025-01-02,,2025-01-02
+DRTB-0839,Kakamega,2024-10-03,54,Male,Positive,351.0,Yes,21.9,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),87,9.0,2025-06-28,2025-11-04,,,2025-11-04
+DRTB-1084,Kakamega,2024-10-05,42,Male,Positive,451.0,Yes,18.6,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),97,12.5,2024-12-06,,,,2026-06-30
+DRTB-0933,Homa Bay,2024-10-07,53,Male,Negative,,,23.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),85,58.8,2024-11-07,,,,2026-06-30
+DRTB-0891,Busia,2024-10-09,59,Female,Positive,212.0,Yes,18.4,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),89,6.8,2025-03-06,,,,2026-06-30
+DRTB-0958,Kakamega,2024-10-09,35,Male,Negative,,,18.8,No,Yes,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),90,8.5,,,2024-11-13,,2024-11-13
+DRTB-0896,Kakamega,2024-10-12,20,Male,Negative,,,15.6,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,3.5,2024-12-11,,,,2026-06-30
+DRTB-0624,Siaya,2024-10-15,45,Male,Negative,,,20.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),75,12.4,,,,,2026-06-30
+DRTB-0922,Siaya,2024-10-15,36,Male,Negative,,,15.7,Yes,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,10.3,2024-12-12,,,,2026-06-30
+DRTB-0962,Siaya,2024-10-15,36,Male,Negative,,,20.8,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),95,8.9,2025-01-16,,,,2026-06-30
+DRTB-0421,Kisumu,2024-10-19,42,Male,Negative,,,23.1,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),94,2.2,2025-05-18,,,,2026-06-30
+DRTB-0874,Kakamega,2024-10-19,41,Male,Negative,,,16.1,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),78,27.9,,,2025-01-21,,2025-01-21
+DRTB-0119,Kisumu,2024-10-20,45,Female,Negative,,,20.3,Yes,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,23.6,2025-01-21,,,,2026-06-30
+DRTB-0683,Siaya,2024-10-20,61,Male,Negative,,,24.7,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),75,11.2,2025-06-20,,,,2026-06-30
+DRTB-0172,Migori,2024-10-21,33,Female,Positive,636.0,Yes,22.5,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,13.6,2025-03-22,,,,2026-06-30
+DRTB-0253,Homa Bay,2024-10-21,47,Male,Positive,,Yes,20.3,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),89,31.6,,2025-06-12,,,2025-06-12
+DRTB-0345,Migori,2024-10-24,55,Female,Positive,58.0,Yes,20.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),75,19.3,2024-11-22,,,,2026-06-30
+DRTB-0425,Busia,2024-10-24,31,Female,Positive,202.0,Yes,16.8,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),72,9.7,2025-11-21,,,,2026-06-30
+DRTB-0178,Kakamega,2024-10-25,19,Male,Positive,184.0,Yes,12.7,Yes,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),89,19.0,,,2025-02-15,,2025-02-15
+DRTB-0378,Kakamega,2024-10-25,31,Female,Negative,,,0.0,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),81,34.1,2025-03-26,,,,2026-06-30
+DRTB-0396,Kisumu,2024-10-25,41,Male,Positive,468.0,Yes,21.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,8.2,2024-11-23,,,,2026-06-30
+DRTB-0217,Kakamega,2024-10-27,39,Male,Positive,79.0,Yes,18.2,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,14.4,2025-02-24,,,,2026-06-30
+DRTB-0391,Busia,2024-10-27,27,Female,Negative,,,19.9,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),99,17.4,,,2024-11-08,,2024-11-08
+DRTB-0142,Kisumu,2024-10-28,45,Female,Negative,,,24.4,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),100,7.8,2025-02-26,,2025-12-29,,2025-12-29
+DRTB-0142,Kisumu,2024-10-28,45,Female,Negative,,,24.4,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),100,7.8,2025-02-26,,2025-12-29,,2025-12-29
+DRTB-0340,Homa Bay,2024-10-28,37,Male,Negative,,,18.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,14.0,,,2024-12-09,,2024-12-09
+DRTB-1043,Siaya,2024-10-29,43,Male,Positive,482.0,No,18.8,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),79,16.8,2025-02-25,,,,2026-06-30
+DRTB-0367,Kisumu,2024-10-30,48,Male,Negative,,,17.4,No,Yes,No,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),86,4.9,,2025-01-27,,,2025-01-27
+DRTB-0439,Kisumu,2024-11-01,30,Male,Negative,,,20.3,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),90,24.0,2025-01-03,,,,2026-06-30
+DRTB-0993,Homa Bay,2024-11-01,29,Female,Negative,,,18.2,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),98,8.5,2025-01-02,,,,2026-06-30
+DRTB-1002,Migori,2024-11-01,40,Male,Negative,,,20.2,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,8.3,2025-01-31,,,,2026-06-30
+DRTB-0457,Kisumu,2024-11-02,68,Male,Positive,183.0,Yes,19.4,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),89,8.7,2026-01-28,,,,2026-06-30
+DRTB-1141,Kakamega,2024-11-02,29,Male,Positive,215.0,Yes,17.2,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),88,10.5,2025-03-01,,,,2026-06-30
+DRTB-0701,Kisumu,2024-11-04,36,Male,Positive,,Yes,16.8,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),78,8.6,2025-01-31,2026-05-14,,,2026-05-14
+DRTB-0105,Homa Bay,2024-11-05,39,Female,Negative,,,17.0,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),86,11.1,2025-03-05,,,,2026-06-30
+DRTB-0800,Migori,2024-11-05,42,Male,Positive,603.0,Yes,18.7,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),84,6.7,2025-01-03,,,,2026-06-30
+DRTB-0827,Migori,2024-11-06,64,Female,Negative,,,17.4,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),94,14.2,2025-04-07,,,,2026-06-30
+DRTB-0820,Homa Bay,2024-11-08,38,Male,Negative,,,19.7,No,No,No,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),95,6.2,2025-04-10,,,,2026-06-30
+DRTB-1028,Homa Bay,2024-11-08,33,Male,Positive,,Yes,15.1,Yes,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),61,30.0,2025-08-03,,2025-10-11,,2025-10-11
+DRTB-1174,Busia,2024-11-10,39,Male,Positive,,Yes,16.0,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),80,24.8,2024-12-12,2025-12-12,,,2025-12-12
+DRTB-0555,Migori,2024-11-11,28,Male,Negative,,,17.1,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),75,26.5,,,2025-04-23,,2025-04-23
+DRTB-0637,Busia,2024-11-11,30,Female,Negative,,,20.0,No,No,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),97,13.8,2025-02-09,,,,2026-06-30
+DRTB-0976,Migori,2024-11-11,33,Male,Negative,,,18.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,19.5,2024-12-10,,,,2026-06-30
+DRTB-1117,Migori,2024-11-11,29,Male,Negative,,,20.9,No,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),99,30.4,2024-12-12,,,,2026-06-30
+DRTB-0714,Homa Bay,2024-11-14,29,Male,Positive,530.0,Yes,18.8,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,14.4,2025-02-09,2026-04-12,,,2026-04-12
+DRTB-0752,Kakamega,2024-11-14,34,Female,Positive,138.0,Yes,21.5,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),69,8.4,2025-04-13,,,,2026-06-30
+DRTB-0847,Kakamega,2024-11-14,47,Male,Negative,,,17.4,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),76,11.2,,2025-03-09,,,2025-03-09
+DRTB-0796,Kisumu,2024-11-16,19,Male,Negative,,,19.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),98,3.2,2024-12-16,2025-09-18,,,2025-09-18
+DRTB-0868,Migori,2024-11-16,35,Male,Negative,,,23.6,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),97,23.3,2025-08-15,,2025-10-22,,2025-10-22
+DRTB-1109,Migori,2024-11-16,41,Male,Negative,,,24.3,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,33.1,2025-01-16,,,2026-05-23,2026-05-23
+DRTB-0461,Migori,2024-11-18,53,Male,Negative,,,21.2,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),81,42.3,2025-07-17,,,,2026-06-30
+DRTB-0298,Kisumu,2024-11-19,30,Male,Negative,,,,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),91,5.0,2024-12-19,2025-07-12,,,2025-07-12
+DRTB-0479,Kisumu,2024-11-19,37,Female,Positive,,Yes,16.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),89,15.8,2025-08-14,2026-04-29,,,2026-04-29
+DRTB-0456,Busia,2024-11-20,52,Male,Positive,339.0,Yes,18.8,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),82,13.0,2025-02-17,,2025-03-29,,2025-03-29
+DRTB-0646,Migori,2024-11-20,39,Male,Positive,349.0,Yes,18.8,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),63,19.5,,,2025-04-10,,2025-04-10
+DRTB-0385,Busia,2024-11-21,68,Female,Positive,,Yes,18.8,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),99,16.0,2024-12-18,,,,2026-06-30
+DRTB-0527,Homa Bay,2024-11-21,49,Male,Negative,,,25.1,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),96,9.4,2025-01-21,,,,2026-06-30
+DRTB-0910,Migori,2024-11-21,39,Female,Negative,,,19.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),99,11.0,2025-04-23,,,,2026-06-30
+DRTB-0257,Siaya,2024-11-22,46,Female,Negative,,,19.1,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),70,9.2,2025-02-22,,,,2026-06-30
+DRTB-0486,Homa Bay,2024-11-22,66,Male,Negative,,,15.4,No,No,No,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),60,10.1,2025-01-23,,2025-10-21,,2025-10-21
+DRTB-0280,Migori,2024-11-23,53,Female,Negative,,,18.3,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,16.2,2025-01-25,,,,2026-06-30
+DRTB-1014,Homa Bay,2024-11-23,50,Male,Negative,,,20.6,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,11.9,2025-01-25,,,,2026-06-30
+DRTB-0480,Kisumu,2024-11-25,18,Male,Negative,,,17.5,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,10.5,2025-07-20,,,,2026-06-30
+DRTB-0700,Migori,2024-11-26,48,Male,Negative,,,19.9,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),97,11.5,2025-02-21,,,,2026-06-30
+DRTB-0591,Homa Bay,2024-11-28,39,Female,Positive,91.0,Yes,18.4,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),78,25.0,2025-05-30,,,,2026-06-30
+DRTB-0691,Migori,2024-11-29,48,Male,Negative,,,16.1,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),93,30.8,2025-03-28,,2025-09-18,,2025-09-18
+DRTB-0097,Homa Bay,2024-11-30,60,Male,Negative,,,18.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,5.8,2025-01-02,2025-08-06,,,2025-08-06
+DRTB-0806,Busia,2024-11-30,54,Male,Negative,,,21.1,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),81,15.4,2024-12-28,,,,2026-06-30
+DRTB-0122,Kakamega,2024-12-03,31,Male,Positive,1313.0,Yes,18.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,9.5,2025-01-04,,,,2026-06-30
+DRTB-0458,Busia,2024-12-04,35,Female,Positive,320.0,Yes,20.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,9.7,2025-01-04,,,,2026-06-30
+DRTB-0458,Busia,2024-12-04,35,Female,Positive,320.0,Yes,20.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,9.7,2025-01-04,,,,2026-06-30
+DRTB-0631,Migori,2024-12-04,49,Male,Positive,94.0,Yes,20.4,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),99,13.5,2025-01-30,,,,2026-06-30
+DRTB-1033,Kisumu,2024-12-04,44,Female,Negative,,,23.4,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),78,6.1,2025-01-04,,2025-08-04,,2025-08-04
+DRTB-0295,Siaya,2024-12-05,39,Male,Negative,,,,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),98,15.3,2025-11-28,,,,2026-06-30
+DRTB-0168,Siaya,2024-12-06,25,Male,Negative,,,21.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),98,17.4,2025-03-05,,,,2026-06-30
+DRTB-0733,Siaya,2024-12-06,37,Male,Negative,,,20.0,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),69,14.6,2025-06-02,,,,2026-06-30
+DRTB-0898,Migori,2024-12-06,47,Male,Positive,299.0,Yes,17.2,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),86,10.6,2025-01-06,,2025-06-21,,2025-06-21
+DRTB-0407,Homa Bay,2024-12-07,61,Female,Negative,,,17.7,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),91,11.2,2025-04-07,,,,2026-06-30
+DRTB-0945,Kisumu,2024-12-07,66,Male,Negative,,,18.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,5.2,,2025-01-30,,,2025-01-30
+DRTB-0240,Kisumu,2024-12-08,41,Female,Negative,,,24.8,Yes,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),65,10.2,2025-10-07,,,,2026-06-30
+DRTB-0487,Kisumu,2024-12-08,24,Male,Negative,,,19.2,No,Yes,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),78,3.7,2025-06-09,,2025-10-13,,2025-10-13
+DRTB-1183,Migori,2024-12-08,37,Female,Negative,,,19.6,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),73,18.4,2025-01-04,,,,2026-06-30
+DRTB-0987,Kisumu,2024-12-09,38,Male,Negative,,,21.2,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),97,13.6,2025-02-05,,,,2026-06-30
+DRTB-0620,Kakamega,2024-12-10,24,Male,Positive,125.0,Yes,20.0,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,7.0,2025-11-05,,,,2026-06-30
+DRTB-0633,Kakamega,2024-12-11,43,Male,Negative,,,23.0,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,13.1,2025-12-09,,,,2026-06-30
+DRTB-0273,Homa Bay,2024-12-12,39,Female,Negative,,,20.5,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),89,27.7,2025-03-15,,2025-03-21,,2025-03-21
+DRTB-0422,Siaya,2024-12-14,50,Male,Negative,,,,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,3.1,2025-05-10,,2025-05-20,,2025-05-20
+DRTB-0517,Busia,2024-12-16,45,Male,Negative,,,20.6,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),85,4.3,2025-03-15,,,,2026-06-30
+DRTB-1056,Migori,2024-12-17,48,Male,Negative,,,21.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,31.1,2025-08-15,,,,2026-06-30
+DRTB-1072,Homa Bay,2024-12-18,67,Male,Negative,,,21.7,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),79,24.5,,2025-09-10,,,2025-09-10
+DRTB-0775,Homa Bay,2024-12-19,34,Male,Positive,,Yes,16.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,21.1,2025-02-15,,2025-03-29,,2025-03-29
+DRTB-0505,Migori,2024-12-20,35,Male,Negative,,,18.2,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),76,39.7,2025-01-16,,,,2026-06-30
+DRTB-0179,Migori,2024-12-23,43,Male,Negative,,,18.8,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),96,36.3,2025-07-23,,2025-07-31,,2025-07-31
+DRTB-0316,Siaya,2024-12-23,18,Female,Positive,,Yes,19.9,No,Yes,No,No,2+/3+,Pre-XDR,Short all-oral (6 mo),98,15.6,2025-03-26,,,,2026-06-30
+DRTB-1021,Kisumu,2024-12-23,43,Female,Positive,532.0,Yes,18.3,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,3.5,2025-01-24,,,,2026-06-30
+DRTB-0154,Homa Bay,2024-12-25,33,Male,Negative,,,27.7,No,Yes,No,No,2+/3+,Pre-XDR,Short all-oral (6 mo),96,10.6,2025-02-26,,,,2026-06-30
+DRTB-0283,Siaya,2024-12-26,35,Male,Negative,,,17.6,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),92,16.1,,,2025-05-18,,2025-05-18
+DRTB-1057,Kakamega,2024-12-26,41,Male,Positive,,Yes,19.6,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,7.5,2025-03-24,,,,2026-06-30
+DRTB-1185,Siaya,2024-12-26,50,Male,Negative,,,22.8,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,16.7,2025-04-26,,,2025-07-22,2025-07-22
+DRTB-0227,Siaya,2024-12-27,29,Male,Negative,,,19.5,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),83,12.7,,,2024-12-28,,2024-12-28
+DRTB-0978,Kisumu,2024-12-27,34,Female,Negative,,,21.4,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,4.0,2025-04-29,,,,2026-06-30
+DRTB-0163,Migori,2024-12-28,28,Male,Negative,,,17.3,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),73,18.6,2026-02-21,,,,2026-06-30
+DRTB-1132,Kakamega,2024-12-28,39,Male,Negative,,,23.2,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),93,41.5,,2025-04-26,,,2025-04-26
+DRTB-1193,Siaya,2024-12-28,34,Female,Positive,113.0,No,18.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),81,61.2,,2025-02-08,,,2025-02-08
+DRTB-0004,Kisumu,2024-12-29,25,Female,Positive,236.0,Yes,17.4,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),69,4.2,2025-10-24,,,,2026-06-30
+DRTB-0617,Migori,2024-12-29,26,Male,Negative,,,17.9,No,Yes,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),98,20.2,2026-01-24,,,,2026-06-30
+DRTB-1030,Kakamega,2024-12-29,54,Female,Positive,135.0,Yes,21.4,Yes,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),83,14.4,,2025-02-13,,,2025-02-13
+DRTB-0807,Homa Bay,2024-12-30,47,Male,Negative,,,22.6,No,Yes,No,Yes,1+,Pre-XDR,Short all-oral (6 mo),61,99.4,2026-02-26,,,,2026-06-30
+DRTB-1073,Kakamega,2024-12-30,59,Female,Negative,,,23.1,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),94,2.8,2025-04-29,,,,2026-06-30
+DRTB-0830,Homa Bay,2024-12-31,56,Male,Positive,88.0,Yes,18.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),93,24.5,2025-04-02,,,,2026-06-30
+DRTB-0920,Migori,2025-01-01,46,Male,Negative,,,23.2,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),97,15.2,2025-01-30,,,,2026-06-30
+DRTB-0520,Kisumu,2025-01-02,27,Male,Positive,119.0,Yes,19.3,No,No,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),88,8.8,2025-10-30,,,,2026-06-30
+DRTB-0734,Kakamega,2025-01-02,61,Female,Negative,,,17.5,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),96,5.3,,2025-01-16,,,2025-01-16
+DRTB-1119,Kakamega,2025-01-02,33,Male,Negative,,,23.1,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),85,4.7,2025-02-28,,,,2026-06-30
+DRTB-0513,Kakamega,2025-01-06,32,Female,Positive,234.0,Yes,17.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),97,5.7,2025-03-06,,,,2026-06-30
+DRTB-0686,Kakamega,2025-01-06,18,Male,Negative,,,21.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,4.9,,,,2025-02-07,2025-02-07
+DRTB-0048,Kisumu,2025-01-07,53,Male,Positive,,Yes,19.2,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),99,5.1,2025-11-30,,,,2026-06-30
+DRTB-0177,Kisumu,2025-01-08,43,Male,Positive,198.0,Yes,24.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),69,4.6,2025-04-06,2026-02-05,,,2026-02-05
+DRTB-0667,Kakamega,2025-01-09,29,Male,Negative,,,24.9,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),88,15.9,2025-11-03,,,,2026-06-30
+DRTB-1004,Busia,2025-01-11,26,Male,Negative,,,21.8,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),95,22.5,2025-11-07,,,,2026-06-30
+DRTB-1020,Siaya,2025-01-12,18,Male,Negative,,,22.4,No,Yes,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),91,10.2,,,2025-02-09,,2025-02-09
+DRTB-0148,Kisumu,2025-01-13,43,Male,Negative,,,15.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,7.1,,2025-05-01,,,2025-05-01
+DRTB-0219,Migori,2025-01-13,43,Male,Negative,,,20.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,11.2,2025-05-11,2025-06-18,,,2025-06-18
+DRTB-0397,Siaya,2025-01-13,52,Male,Negative,,,26.0,No,Yes,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),95,15.1,2025-02-10,,,,2026-06-30
+DRTB-1157,Kisumu,2025-01-13,26,Male,Negative,,,16.5,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,6.0,2025-02-14,,,,2026-06-30
+DRTB-0605,Kakamega,2025-01-14,36,Male,Negative,,,21.8,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),90,11.4,2025-06-15,,,,2026-06-30
+DRTB-0916,Kisumu,2025-01-15,80,Male,Positive,265.0,Yes,19.2,No,No,No,No,1+,Pre-XDR,Short all-oral (6 mo),82,13.8,2025-04-13,,,,2026-06-30
+DRTB-0232,Homa Bay,2025-01-16,26,Female,Positive,144.0,Yes,16.7,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),79,9.6,2025-08-15,,,,2026-06-30
+DRTB-0423,Kisumu,2025-01-16,38,Female,Negative,,,24.5,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),82,9.4,2025-04-16,,,,2026-06-30
+DRTB-0900,Homa Bay,2025-01-16,30,Male,Negative,,,15.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,69.9,,,2025-03-25,,2025-03-25
+DRTB-0528,Homa Bay,2025-01-17,34,Male,Negative,,,18.3,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),86,28.8,2025-05-17,,,,2026-06-30
+DRTB-0496,Homa Bay,2025-01-18,57,Female,Positive,192.0,Yes,16.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,12.8,,2025-01-19,,,2025-01-19
+DRTB-0371,Homa Bay,2025-01-20,35,Female,Negative,,,18.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,15.6,2025-03-21,,,,2026-06-30
+DRTB-0597,Migori,2025-01-20,50,Male,Negative,,,18.9,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),94,24.4,2025-03-20,,,,2026-06-30
+DRTB-0249,Kisumu,2025-01-21,35,Female,Positive,585.0,Yes,19.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),79,14.5,2025-02-18,,,,2026-06-30
+DRTB-0706,Busia,2025-01-23,18,Male,Negative,,,21.6,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),79,14.4,2025-11-17,,,,2026-06-30
+DRTB-1064,Siaya,2025-01-23,51,Male,Negative,,,23.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),81,11.5,2025-03-24,,,,2026-06-30
+DRTB-0169,Homa Bay,2025-01-24,39,Female,Negative,,,23.0,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),92,13.3,2025-12-20,,,,2026-06-30
+DRTB-0678,Kisumu,2025-01-25,48,Female,Negative,,,20.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),77,7.6,2025-04-23,,,,2026-06-30
+DRTB-1155,Siaya,2025-01-25,27,Male,Negative,,,22.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),56,16.1,2025-08-21,,,,2026-06-30
+DRTB-0210,Busia,2025-01-27,33,Male,Positive,,Yes,21.7,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,7.9,2025-03-25,,,,2026-06-30
+DRTB-0107,Siaya,2025-01-30,39,Female,Negative,,,19.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,6.0,2025-05-30,,,,2026-06-30
+DRTB-0923,Siaya,2025-01-31,46,Female,Negative,,,22.0,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),86,6.4,2025-03-31,,,,2026-06-30
+DRTB-0193,Kakamega,2025-02-01,30,Male,Negative,,,22.2,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,15.7,2025-06-28,,2026-01-11,,2026-01-11
+DRTB-0944,Migori,2025-02-01,40,Female,Negative,,,,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),94,14.7,2025-12-28,,,,2026-06-30
+DRTB-0745,Homa Bay,2025-02-02,49,Female,Positive,,Yes,19.4,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),67,20.8,2025-05-30,,,2025-09-22,2025-09-22
+DRTB-0001,Kisumu,2025-02-03,33,Male,Positive,484.0,Yes,17.1,No,Yes,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,10.2,,,2025-03-30,,2025-03-30
+DRTB-0181,Siaya,2025-02-03,42,Male,Negative,,,17.4,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),79,6.1,,,,,2026-06-30
+DRTB-0238,Migori,2025-02-03,45,Female,Negative,,,22.8,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,6.4,2025-04-03,2025-04-20,,,2025-04-20
+DRTB-0248,Migori,2025-02-04,39,Female,Positive,171.0,Yes,22.5,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),87,6.8,2025-05-06,,,,2026-06-30
+DRTB-0983,Kisumu,2025-02-04,29,Male,Negative,,,20.3,No,Yes,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),94,12.0,2025-04-05,,,,2026-06-30
+DRTB-0058,Kisumu,2025-02-05,47,Female,Negative,,,20.3,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,5.0,,2025-02-22,,,2025-02-22
+DRTB-0823,Busia,2025-02-06,48,Female,Positive,,Yes,18.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,20.8,2025-10-05,,,,2026-06-30
+DRTB-0992,Kisumu,2025-02-06,48,Male,Negative,,,20.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),81,16.8,2025-03-09,,,,2026-06-30
+DRTB-1055,Homa Bay,2025-02-07,33,Male,Negative,,,19.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),89,16.4,2025-03-11,,,,2026-06-30
+DRTB-0202,Busia,2025-02-08,53,Male,Negative,,,20.8,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),69,32.6,2026-01-01,,,,2026-06-30
+DRTB-0844,Kisumu,2025-02-08,28,Female,Negative,,,18.6,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),91,3.9,2025-03-07,,,,2026-06-30
+DRTB-0852,Siaya,2025-02-08,34,Male,Negative,,,19.0,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),92,14.1,2025-06-05,,,,2026-06-30
+DRTB-0191,Homa Bay,2025-02-09,64,Female,Positive,83.0,Yes,13.7,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),83,26.3,,2025-03-07,,,2025-03-07
+DRTB-0384,Kisumu,2025-02-10,67,Male,Negative,,,20.0,Yes,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,9.8,2025-09-05,,,,2026-06-30
+DRTB-1015,Busia,2025-02-10,36,Male,Negative,,,24.8,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),97,11.1,2025-05-10,,,,2026-06-30
+DRTB-0966,Siaya,2025-02-12,19,Female,Negative,,,18.6,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),84,36.6,2025-04-12,,,,2026-06-30
+DRTB-0687,Kakamega,2025-02-14,58,Female,Positive,101.0,Yes,,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),82,5.9,,2025-03-24,,,2025-03-24
+DRTB-0066,Busia,2025-02-16,59,Male,Positive,95.0,Yes,23.7,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,11.1,2025-05-20,,,2026-06-08,2026-06-08
+DRTB-0008,Kisumu,2025-02-18,35,Male,Negative,,,18.0,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),93,6.8,,,,,2026-06-30
+DRTB-0860,Migori,2025-02-21,27,Male,Positive,191.0,Yes,22.0,No,Yes,No,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),99,13.6,2025-11-16,,2026-04-13,,2026-04-13
+DRTB-0290,Kakamega,2025-02-22,25,Male,Positive,,Yes,16.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,10.3,2025-10-23,,,,2026-06-30
+DRTB-0562,Kakamega,2025-02-23,46,Male,Negative,,,19.2,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),87,13.1,2025-04-25,,,,2026-06-30
+DRTB-1008,Kisumu,2025-02-23,20,Male,Negative,,,21.7,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),92,8.7,2025-11-21,,,,2026-06-30
+DRTB-0211,Kisumu,2025-02-24,37,Male,Negative,,,13.9,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),100,3.6,2025-03-23,2026-03-03,,,2026-03-03
+DRTB-0233,Kakamega,2025-02-24,45,Female,Positive,,Yes,19.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,9.4,2025-06-22,,,,2026-06-30
+DRTB-0341,Migori,2025-02-25,59,Male,Negative,,,20.7,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),95,10.5,2025-05-23,,,,2026-06-30
+DRTB-0702,Migori,2025-02-26,51,Male,Negative,,,19.9,No,No,Yes,No,1+,Pre-XDR,Longer individualised (18-20 mo),91,16.4,,2025-04-18,,,2025-04-18
+DRTB-0484,Kisumu,2025-02-28,37,Male,Negative,,,18.9,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,15.5,2025-05-28,2026-01-19,,,2026-01-19
+DRTB-1052,Siaya,2025-02-28,32,Male,Negative,,,19.2,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,15.7,2025-03-28,,,,2026-06-30
+DRTB-0190,Migori,2025-03-01,52,Male,Positive,75.0,Yes,24.3,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,17.3,2025-05-31,,,,2026-06-30
+DRTB-0228,Homa Bay,2025-03-01,40,Female,Negative,,,19.3,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,15.8,2025-05-01,,,,2026-06-30
+DRTB-0231,Kisumu,2025-03-03,23,Male,Negative,,,17.8,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,15.4,2025-03-30,,,,2026-06-30
+DRTB-1048,Kakamega,2025-03-03,18,Male,Negative,,,19.8,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),75,20.5,2025-09-26,,,,2026-06-30
+DRTB-0428,Kisumu,2025-03-05,35,Male,Positive,596.0,Yes,23.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,11.9,2025-06-05,,,,2026-06-30
+DRTB-0470,Kisumu,2025-03-05,31,Female,Positive,,Yes,16.1,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),95,1.4,2025-06-30,,,,2026-06-30
+DRTB-0079,Siaya,2025-03-06,45,Female,Positive,360.0,No,17.4,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),88,9.1,2025-04-02,,,,2026-06-30
+DRTB-0873,Kakamega,2025-03-06,32,Male,Positive,209.0,Yes,16.1,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,51.6,2025-05-04,,,,2026-06-30
+DRTB-0928,Kisumu,2025-03-06,39,Male,Negative,,,18.0,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),83,5.9,,,2025-03-12,,2025-03-12
+DRTB-0972,Migori,2025-03-06,41,Male,Negative,,,22.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,3.0,2025-04-08,2026-02-09,,,2026-02-09
+DRTB-0974,Siaya,2025-03-07,43,Male,Negative,,,18.5,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,6.2,,,2025-04-07,,2025-04-07
+DRTB-1135,Migori,2025-03-07,48,Male,Negative,,,22.4,No,Yes,No,No,1+,Pre-XDR,Short all-oral (6 mo),87,12.8,2025-05-06,,,,2026-06-30
+DRTB-0557,Kakamega,2025-03-08,30,Male,Negative,,,17.8,No,Yes,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),91,10.6,2025-08-02,,,,2026-06-30
+DRTB-0625,Siaya,2025-03-08,32,Male,Negative,,,17.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),97,12.1,2025-04-09,,,,2026-06-30
+DRTB-0649,Siaya,2025-03-10,44,Male,Negative,,,21.9,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),73,8.8,,2025-05-26,,,2025-05-26
+DRTB-0050,Siaya,2025-03-11,49,Female,Positive,200.0,Yes,19.9,No,Yes,No,No,1+,RR/MDR,Short all-oral (6 mo),97,6.2,2025-05-10,,,,2026-06-30
+DRTB-1017,Kisumu,2025-03-13,62,Female,Negative,,,17.8,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),75,5.2,2025-04-13,,,,2026-06-30
+DRTB-0535,Siaya,2025-03-15,55,Male,Negative,,,,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),91,33.8,2025-07-15,2026-02-13,,,2026-02-13
+DRTB-0332,Kisumu,2025-03-18,60,Male,Negative,,,17.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,12.7,,2025-08-03,,,2025-08-03
+DRTB-1167,Siaya,2025-03-20,37,Female,Negative,,,18.4,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,21.2,2025-07-15,2025-07-24,,,2025-07-24
+DRTB-0545,Kisumu,2025-03-21,43,Male,Positive,,Yes,20.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),73,5.8,2025-06-18,,,,2026-06-30
+DRTB-0574,Busia,2025-03-21,25,Male,Negative,,,21.5,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),97,15.9,2025-06-22,,,,2026-06-30
+DRTB-0711,Kisumu,2025-03-21,44,Female,Negative,,,22.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,7.2,2025-07-18,,,,2026-06-30
+DRTB-1070,Kisumu,2025-03-21,31,Male,Negative,,,20.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,5.4,2025-04-23,,,,2026-06-30
+DRTB-0409,Kisumu,2025-03-22,35,Male,Positive,201.0,Yes,19.5,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,4.4,2025-06-18,,,,2026-06-30
+DRTB-0564,Kakamega,2025-03-23,31,Female,Positive,228.0,Yes,14.0,No,Yes,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),81,4.2,,,,,2026-06-30
+DRTB-0091,Busia,2025-03-26,47,Male,Positive,,Yes,16.5,No,No,Yes,Yes,1+,Pre-XDR,Longer individualised (18-20 mo),67,19.5,2025-06-22,,,,2026-06-30
+DRTB-0150,Kakamega,2025-03-26,28,Female,Negative,,,18.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),99,6.0,2025-06-23,,,,2026-06-30
+DRTB-0917,Siaya,2025-03-27,51,Female,Negative,,,15.2,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,15.9,,2025-10-02,,,2025-10-02
+DRTB-0881,Kakamega,2025-03-28,43,Female,Negative,,,17.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),87,3.7,,,2025-07-19,,2025-07-19
+DRTB-1112,Homa Bay,2025-03-29,37,Male,Negative,,,17.5,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),90,23.0,2025-04-29,,,,2026-06-30
+DRTB-0011,Kisumu,2025-03-30,39,Female,Negative,,,21.9,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,5.1,2025-06-27,,,,2026-06-30
+DRTB-0109,Kisumu,2025-03-30,23,Female,Negative,,,18.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),86,3.0,2026-01-21,,,,2026-06-30
+DRTB-0274,Kakamega,2025-03-30,38,Male,Negative,,,18.2,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),87,8.6,2025-07-26,,,,2026-06-30
+DRTB-0768,Kisumu,2025-03-30,23,Male,Negative,,,20.6,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),96,7.6,2025-07-31,,,,2026-06-30
+DRTB-0672,Kisumu,2025-03-31,25,Male,Positive,112.0,Yes,22.6,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),61,10.9,2025-09-30,,,,2026-06-30
+DRTB-0862,Kisumu,2025-03-31,25,Female,Positive,,Yes,18.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),89,4.5,2025-04-29,,2025-06-05,,2025-06-05
+DRTB-1110,Siaya,2025-03-31,27,Male,Negative,,,17.6,No,No,No,No,1+,Pre-XDR,Longer individualised (18-20 mo),97,14.3,,2025-05-17,,,2025-05-17
+DRTB-0067,Kisumu,2025-04-01,50,Male,Negative,,,20.6,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,5.4,,2025-04-18,,,2025-04-18
+DRTB-0930,Kisumu,2025-04-05,29,Male,Positive,182.0,Yes,17.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,6.9,2025-06-07,,,,2026-06-30
+DRTB-1133,Siaya,2025-04-05,43,Male,Negative,,,19.0,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Short all-oral (6 mo),98,8.4,2025-07-05,,,,2026-06-30
+DRTB-0671,Migori,2025-04-06,48,Male,Positive,154.0,Yes,21.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,8.3,2025-08-02,,,,2026-06-30
+DRTB-0507,Kakamega,2025-04-09,49,Male,Positive,46.0,Yes,20.9,No,Yes,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),85,3.6,2026-04-02,,,,2026-06-30
+DRTB-0999,Siaya,2025-04-10,31,Male,Negative,,,16.4,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),93,25.0,2025-12-05,,,,2026-06-30
+DRTB-1041,Siaya,2025-04-11,45,Male,Negative,,,21.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,3.7,2025-05-14,,,,2026-06-30
+DRTB-0370,Homa Bay,2025-04-12,28,Female,Positive,173.0,Yes,14.0,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),93,11.0,2025-07-14,,,2025-11-05,2025-11-05
+DRTB-0260,Kakamega,2025-04-13,44,Female,Negative,,,17.8,No,No,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),92,13.3,,,,2025-04-24,2025-04-24
+DRTB-0440,Kisumu,2025-04-13,56,Male,Negative,,,18.0,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),90,3.1,2025-08-09,2025-12-19,,,2025-12-19
+DRTB-0635,Kisumu,2025-04-13,46,Female,Positive,,Yes,16.0,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),81,5.8,2025-05-15,,,,2026-06-30
+DRTB-0086,Siaya,2025-04-16,30,Female,Positive,793.0,Yes,16.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,15.1,2025-06-15,,,,2026-06-30
+DRTB-0322,Kisumu,2025-04-16,42,Female,Negative,,,18.9,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,4.4,2025-06-14,,2025-06-26,,2025-06-26
+DRTB-0602,Siaya,2025-04-18,31,Male,Negative,,,18.6,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),91,13.6,2025-06-20,,,,2026-06-30
+DRTB-0446,Busia,2025-04-19,18,Male,Positive,104.0,Yes,21.6,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),99,7.3,,,2025-09-15,,2025-09-15
+DRTB-0175,Kakamega,2025-04-20,24,Male,Positive,615.0,No,23.0,No,Yes,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),79,8.6,2025-05-17,,,,2026-06-30
+DRTB-0766,Busia,2025-04-20,33,Male,Negative,,,21.2,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),87,10.2,,,2025-06-25,,2025-06-25
+DRTB-0792,Homa Bay,2025-04-20,36,Male,Negative,,,14.3,No,No,No,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),87,16.4,2025-07-20,,,,2026-06-30
+DRTB-0865,Kisumu,2025-04-20,32,Male,Negative,,,21.3,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,13.3,2025-08-17,,,,2026-06-30
+DRTB-0963,Kakamega,2025-04-21,21,Female,Positive,,Yes,19.8,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),98,17.3,2025-05-19,,2025-09-12,,2025-09-12
+DRTB-0995,Migori,2025-04-21,39,Male,Negative,,,22.4,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),87,11.8,,,2025-06-14,,2025-06-14
+DRTB-0650,Migori,2025-04-22,41,Male,Positive,462.0,Yes,22.1,Yes,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,22.0,2025-06-18,,,,2026-06-30
+DRTB-1081,Busia,2025-04-22,44,Male,Negative,,,24.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,14.9,2025-07-24,,,,2026-06-30
+DRTB-1153,Siaya,2025-04-22,40,Female,Positive,291.0,Yes,18.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),91,17.3,2025-06-23,,,,2026-06-30
+DRTB-0452,Homa Bay,2025-04-23,74,Female,Negative,,,23.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),75,32.7,2025-05-22,,,,2026-06-30
+DRTB-0550,Kakamega,2025-04-23,35,Male,Negative,,,17.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),85,7.6,,,,,2026-06-30
+DRTB-0728,Busia,2025-04-23,38,Male,Negative,,,18.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,2.9,2025-07-19,,,,2026-06-30
+DRTB-0918,Kakamega,2025-04-24,41,Male,Positive,,Yes,21.4,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,4.2,2025-05-24,,,,2026-06-30
+DRTB-1122,Busia,2025-04-24,21,Female,Positive,,Yes,17.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),80,8.4,,,2025-09-08,,2025-09-08
+DRTB-0032,Busia,2025-04-27,38,Female,Negative,,,20.0,Yes,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,18.0,2025-07-26,,,,2026-06-30
+DRTB-0111,Migori,2025-04-30,31,Male,Negative,,,22.2,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),67,11.9,2025-09-25,,,,2026-06-30
+DRTB-1130,Kisumu,2025-04-30,28,Male,Negative,,,21.5,Yes,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,3.2,2025-11-29,,,,2026-06-30
+DRTB-1075,Busia,2025-05-04,34,Female,Negative,,,20.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),79,10.4,2025-11-02,,,,2026-06-30
+DRTB-0015,Kisumu,2025-05-06,35,Male,Negative,,,24.0,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),72,3.5,2026-04-28,,,,2026-06-30
+DRTB-0606,Kisumu,2025-05-06,27,Female,Positive,,Yes,19.2,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),95,8.3,2025-07-08,,,,2026-06-30
+DRTB-0919,Kisumu,2025-05-06,72,Male,Negative,,,17.5,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),82,3.3,,2025-05-15,,,2025-05-15
+DRTB-0660,Siaya,2025-05-07,47,Male,Positive,176.0,Yes,18.1,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),81,7.9,2025-08-05,,2026-06-08,,2026-06-08
+DRTB-0878,Siaya,2025-05-07,37,Male,Negative,,,,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),78,21.3,,,2025-07-12,,2025-07-12
+DRTB-0949,Kakamega,2025-05-08,24,Male,Positive,111.0,Yes,16.1,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,12.6,,,,,2026-06-30
+DRTB-0271,Homa Bay,2025-05-11,26,Male,Negative,,,17.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,12.6,2025-07-08,,,,2026-06-30
+DRTB-0380,Kisumu,2025-05-13,47,Male,Negative,,,22.2,No,No,Yes,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),99,6.7,2025-08-09,,,,2026-06-30
+DRTB-0569,Migori,2025-05-13,37,Male,Negative,,,21.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),70,13.2,2025-06-14,,,,2026-06-30
+DRTB-0033,Homa Bay,2025-05-15,42,Male,Positive,,Yes,20.1,No,Yes,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),98,18.9,2025-08-13,,,,2026-06-30
+DRTB-0707,Kakamega,2025-05-15,24,Female,Positive,,Yes,16.0,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),87,17.3,2025-10-11,,,,2026-06-30
+DRTB-0822,Kakamega,2025-05-15,44,Female,Positive,,Yes,18.9,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,24.8,2025-07-16,,,,2026-06-30
+DRTB-0750,Siaya,2025-05-16,34,Male,Positive,1236.0,Yes,14.0,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,22.9,2025-08-15,,,,2026-06-30
+DRTB-0802,Kisumu,2025-05-16,54,Male,Positive,,Yes,15.9,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,10.0,,2025-06-20,,,2025-06-20
+DRTB-0746,Kakamega,2025-05-19,66,Male,Negative,,,18.7,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),67,21.8,2025-11-14,,,,2026-06-30
+DRTB-0808,Kisumu,2025-05-19,41,Female,Negative,,,18.9,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),94,3.1,2025-12-13,,,,2026-06-30
+DRTB-0113,Homa Bay,2025-05-21,34,Female,Negative,,,17.6,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),76,15.4,,,2025-07-03,,2025-07-03
+DRTB-0137,Kakamega,2025-05-21,22,Male,Negative,,,23.5,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),75,30.8,2025-07-19,,,,2026-06-30
+DRTB-0399,Kisumu,2025-05-21,51,Female,Negative,,,21.9,No,No,No,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,8.0,2025-09-17,,,,2026-06-30
+DRTB-0685,Kakamega,2025-05-22,34,Male,Negative,,,21.7,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,9.1,2025-06-21,,,,2026-06-30
+DRTB-0549,Kakamega,2025-05-23,36,Female,Positive,159.0,Yes,20.0,Yes,No,No,No,1+,RR/MDR,Short all-oral (6 mo),80,10.9,2025-10-23,,,,2026-06-30
+DRTB-0123,Kisumu,2025-05-24,33,Male,Positive,355.0,No,20.4,No,No,Yes,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),93,2.5,2025-10-23,,,,2026-06-30
+DRTB-1114,Homa Bay,2025-05-24,19,Female,Negative,,,20.2,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,30.4,,,2025-12-19,,2025-12-19
+DRTB-0924,Kisumu,2025-05-27,24,Female,Negative,,,15.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,10.6,2025-07-23,,,,2026-06-30
+DRTB-0358,Siaya,2025-05-29,50,Male,Negative,,,13.3,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,6.6,2025-09-29,,,,2026-06-30
+DRTB-0490,Siaya,2025-05-30,45,Female,Positive,241.0,Yes,21.9,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,11.3,2025-07-28,,,,2026-06-30
+DRTB-0781,Siaya,2025-05-30,29,Male,Negative,,,21.3,No,No,No,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),99,1.4,2025-12-26,,,,2026-06-30
+DRTB-0826,Kisumu,2025-05-30,26,Male,Negative,,,19.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,4.7,2025-09-25,,,,2026-06-30
+DRTB-0842,Siaya,2025-05-30,62,Female,Positive,61.0,Yes,19.5,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,11.9,2025-06-27,,,,2026-06-30
+DRTB-0192,Kisumu,2025-05-31,25,Male,Negative,,,17.9,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),95,11.5,2025-12-30,,,,2026-06-30
+DRTB-0810,Kisumu,2025-06-01,24,Male,Negative,,,18.3,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),94,4.2,2025-09-27,,,,2026-06-30
+DRTB-0991,Migori,2025-06-01,31,Female,Negative,,,14.9,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),95,23.6,2025-07-28,,,,2026-06-30
+DRTB-0387,Kisumu,2025-06-03,28,Female,Positive,158.0,Yes,16.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,6.0,2025-08-04,,,,2026-06-30
+DRTB-0416,Kisumu,2025-06-03,34,Female,Positive,74.0,Yes,15.8,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),95,6.8,2025-07-04,,2026-05-18,,2026-05-18
+DRTB-1001,Siaya,2025-06-03,34,Female,Negative,,,22.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,3.6,2025-07-05,,,,2026-06-30
+DRTB-1003,Kakamega,2025-06-03,48,Male,Negative,,,18.6,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),71,3.7,2025-08-04,,,,2026-06-30
+DRTB-0722,Siaya,2025-06-04,35,Male,Negative,,,18.6,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,17.8,2025-10-02,,,,2026-06-30
+DRTB-0045,Siaya,2025-06-05,30,Male,Negative,,,22.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),82,12.5,2025-10-30,,,,2026-06-30
+DRTB-0628,Busia,2025-06-05,44,Female,Positive,644.0,No,18.8,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),92,18.1,2025-09-30,,,,2026-06-30
+DRTB-0741,Siaya,2025-06-06,36,Male,Negative,,,25.6,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),88,4.5,2025-12-30,,,,2026-06-30
+DRTB-0911,Kakamega,2025-06-07,71,Female,Negative,,,20.1,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),72,17.7,2025-09-06,,,,2026-06-30
+DRTB-0560,Siaya,2025-06-10,29,Male,Negative,,,19.5,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,9.5,2025-09-10,,,,2026-06-30
+DRTB-0648,Siaya,2025-06-10,51,Female,Positive,,Yes,14.9,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,8.0,2025-09-06,,,,2026-06-30
+DRTB-0056,Migori,2025-06-11,46,Male,Negative,,,19.5,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),56,20.0,2025-11-06,,,,2026-06-30
+DRTB-0724,Kisumu,2025-06-11,34,Female,Negative,,,20.0,No,No,No,No,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,3.4,2025-11-05,,,,2026-06-30
+DRTB-0736,Migori,2025-06-11,52,Female,Negative,,,18.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),86,26.3,2025-09-06,,,,2026-06-30
+DRTB-0488,Busia,2025-06-13,72,Male,Negative,,,17.1,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),72,8.7,2025-08-10,,2025-08-11,,2025-08-11
+DRTB-0157,Siaya,2025-06-15,26,Male,Negative,,,19.9,No,Yes,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),94,18.3,2025-07-18,,,,2026-06-30
+DRTB-0662,Kisumu,2025-06-15,41,Male,Negative,,,23.9,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),98,9.7,2025-10-12,,,,2026-06-30
+DRTB-1050,Migori,2025-06-15,59,Female,Positive,390.0,Yes,19.4,Yes,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),99,19.1,2025-08-17,,,,2026-06-30
+DRTB-1129,Migori,2025-06-15,46,Female,Negative,,,17.9,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),78,11.8,2025-07-16,,,,2026-06-30
+DRTB-0242,Homa Bay,2025-06-17,43,Male,Negative,,,19.3,Yes,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),95,4.8,,,,,2026-06-30
+DRTB-0610,Kisumu,2025-06-17,27,Male,Negative,,,19.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,28.7,2026-05-16,,,,2026-06-30
+DRTB-0855,Siaya,2025-06-17,50,Male,Negative,,,17.6,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),98,17.2,2025-09-15,,,,2026-06-30
+DRTB-0263,Migori,2025-06-18,45,Male,Negative,,,25.8,No,No,No,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),77,17.2,2026-03-14,,,,2026-06-30
+DRTB-0299,Migori,2025-06-18,40,Female,Negative,,,22.7,No,No,Yes,Yes,Negative/scanty,Pre-XDR,Short all-oral (6 mo),98,9.2,2025-11-16,,,,2026-06-30
+DRTB-0406,Kakamega,2025-06-19,50,Female,Positive,1314.0,Yes,22.3,Yes,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),92,7.5,2025-09-19,,,,2026-06-30
+DRTB-0581,Migori,2025-06-19,32,Male,Negative,,,15.5,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),98,25.5,2025-08-20,,,2026-06-15,2026-06-15
+DRTB-0393,Migori,2025-06-20,37,Male,Negative,,,21.6,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,15.2,2025-08-18,,2025-11-12,,2025-11-12
+DRTB-0006,Homa Bay,2025-06-22,24,Male,Negative,,,17.9,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,40.9,2025-11-17,,,,2026-06-30
+DRTB-0022,Kisumu,2025-06-23,36,Male,Negative,,,21.2,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),87,3.2,2025-08-24,,,,2026-06-30
+DRTB-0312,Kisumu,2025-06-23,39,Male,Negative,,,20.2,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,5.0,2025-08-21,,,,2026-06-30
+DRTB-0329,Migori,2025-06-24,28,Male,Negative,,,,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,32.8,2025-09-24,,,,2026-06-30
+DRTB-0357,Kisumu,2025-06-24,22,Male,Negative,,,19.7,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),93,5.4,2025-11-24,,,,2026-06-30
+DRTB-0255,Homa Bay,2025-06-25,46,Male,Positive,643.0,Yes,18.1,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),84,22.7,2025-07-24,,,,2026-06-30
+DRTB-0848,Migori,2025-06-25,51,Female,Positive,1140.0,Yes,17.8,No,No,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),62,21.0,2025-07-25,,,,2026-06-30
+DRTB-0286,Siaya,2025-06-27,80,Male,Negative,,,23.1,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),77,28.7,2025-07-29,,,,2026-06-30
+DRTB-0717,Kisumu,2025-06-28,40,Male,Negative,,,17.5,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),70,7.3,2026-03-27,,,,2026-06-30
+DRTB-0307,Siaya,2025-06-29,26,Female,Negative,,,20.8,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),95,23.0,2025-10-28,,,,2026-06-30
+DRTB-1189,Kakamega,2025-06-29,34,Male,Positive,118.0,Yes,15.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,11.4,2025-08-25,,,,2026-06-30
+DRTB-0696,Siaya,2025-07-01,41,Male,Negative,,,,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),89,8.2,2025-09-27,,,,2026-06-30
+DRTB-0521,Kisumu,2025-07-02,70,Female,Negative,,,18.1,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),99,5.8,,2025-07-03,,,2025-07-03
+DRTB-0171,Migori,2025-07-03,25,Male,Positive,286.0,Yes,17.3,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),84,6.4,2025-10-29,,,,2026-06-30
+DRTB-0251,Kisumu,2025-07-04,22,Female,Negative,,,22.2,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),98,7.8,2025-10-31,,,,2026-06-30
+DRTB-1088,Homa Bay,2025-07-04,38,Male,Negative,,,24.4,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),75,41.1,2025-08-04,,,,2026-06-30
+DRTB-0382,Kakamega,2025-07-06,35,Male,Negative,,,19.2,No,Yes,No,No,1+,Pre-XDR,Short all-oral (6 mo),48,17.0,,,2025-08-22,,2025-08-22
+DRTB-1190,Homa Bay,2025-07-08,37,Male,Negative,,,24.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),94,10.6,2025-09-07,,,,2026-06-30
+DRTB-0986,Kakamega,2025-07-09,47,Male,Positive,396.0,Yes,20.7,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),95,8.2,2025-10-04,,,,2026-06-30
+DRTB-0589,Homa Bay,2025-07-12,24,Female,Negative,,,19.0,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),86,10.3,2025-10-07,,,,2026-06-30
+DRTB-0879,Kisumu,2025-07-13,29,Male,Negative,,,17.7,No,No,No,No,1+,RR/MDR,Longer individualised (18-20 mo),87,2.9,2026-01-06,,,,2026-06-30
+DRTB-1027,Kisumu,2025-07-13,29,Female,Positive,212.0,Yes,22.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,9.5,2025-11-09,,,,2026-06-30
+DRTB-0451,Kisumu,2025-07-15,42,Female,Negative,,,18.1,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),98,1.5,2025-10-14,,,,2026-06-30
+DRTB-1037,Kakamega,2025-07-16,21,Male,Positive,,Yes,21.4,No,No,No,No,1+,Pre-XDR,Short all-oral (6 mo),94,29.5,2025-09-14,,,,2026-06-30
+DRTB-1089,Kisumu,2025-07-16,36,Female,Positive,172.0,Yes,19.1,No,No,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),82,3.3,,,,,2026-06-30
+DRTB-0511,Kisumu,2025-07-17,25,Male,Negative,,,17.2,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),99,12.3,2025-11-15,,,,2026-06-30
+DRTB-1010,Migori,2025-07-17,28,Male,Negative,,,20.0,No,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),76,20.6,2026-01-15,,,,2026-06-30
+DRTB-0310,Siaya,2025-07-18,40,Female,Negative,,,17.2,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),71,19.1,2025-08-17,,,,2026-06-30
+DRTB-0127,Siaya,2025-07-19,43,Male,Positive,137.0,Yes,20.1,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),95,4.3,2025-12-14,2026-05-19,,,2026-05-19
+DRTB-0626,Migori,2025-07-20,26,Male,Negative,,,22.5,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),77,28.3,,,2025-08-09,,2025-08-09
+DRTB-1026,Migori,2025-07-22,33,Female,Positive,192.0,Yes,18.8,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),84,21.9,2025-10-19,,2026-01-11,,2026-01-11
+DRTB-0522,Homa Bay,2025-07-23,22,Female,Negative,,,17.3,No,No,No,Yes,1+,Pre-XDR,Short all-oral (6 mo),93,10.7,2025-10-21,,,,2026-06-30
+DRTB-0967,Homa Bay,2025-07-28,58,Female,Positive,136.0,Yes,21.6,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),91,31.6,,,,,2026-06-30
+DRTB-1007,Kisumu,2025-07-30,40,Male,Positive,458.0,Yes,18.0,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),73,7.6,2025-12-26,,,,2026-06-30
+DRTB-0120,Kakamega,2025-07-31,62,Male,Negative,,,16.6,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,9.6,,,2025-08-05,,2025-08-05
+DRTB-0534,Busia,2025-08-01,25,Male,Negative,,,17.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,21.8,2025-10-01,,,,2026-06-30
+DRTB-0908,Kisumu,2025-08-01,21,Female,Negative,,,19.2,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),90,7.9,2025-12-02,,,,2026-06-30
+DRTB-0561,Migori,2025-08-02,30,Female,Negative,,,15.2,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,11.3,2026-05-01,,,,2026-06-30
+DRTB-0652,Busia,2025-08-02,34,Male,Negative,,,22.4,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,5.6,2026-05-26,,,,2026-06-30
+DRTB-0684,Homa Bay,2025-08-02,50,Female,Negative,,,19.8,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),92,8.6,2025-09-29,,,,2026-06-30
+DRTB-0116,Siaya,2025-08-03,57,Female,Positive,,Yes,18.0,Yes,No,Yes,No,1+,Pre-XDR,Short all-oral (6 mo),79,19.1,2025-12-31,,,,2026-06-30
+DRTB-0136,Busia,2025-08-03,59,Male,Positive,289.0,Yes,18.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),98,13.7,2026-05-27,,,,2026-06-30
+DRTB-0326,Kisumu,2025-08-04,24,Male,Negative,,,17.0,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),81,9.7,2025-11-03,,,,2026-06-30
+DRTB-0184,Busia,2025-08-05,38,Male,Negative,,,16.8,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),61,41.7,2025-10-05,,,,2026-06-30
+DRTB-0473,Kisumu,2025-08-05,80,Female,Negative,,,23.6,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),98,11.4,2025-09-06,,,,2026-06-30
+DRTB-0905,Kakamega,2025-08-05,62,Male,Negative,,,22.3,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),82,22.1,2025-12-05,,,,2026-06-30
+DRTB-0816,Kisumu,2025-08-06,28,Male,Positive,104.0,Yes,20.8,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),90,4.3,2025-09-05,,,,2026-06-30
+DRTB-0204,Kisumu,2025-08-07,51,Male,Negative,,,22.6,Yes,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),76,7.3,2025-11-06,,,,2026-06-30
+DRTB-0864,Kakamega,2025-08-07,18,Male,Negative,,,,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),86,5.1,2025-12-03,,,,2026-06-30
+DRTB-0955,Kisumu,2025-08-07,29,Male,Negative,,,19.0,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,8.3,2025-09-09,,,,2026-06-30
+DRTB-0207,Migori,2025-08-10,25,Female,Negative,,,19.4,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,17.5,2025-09-10,,,,2026-06-30
+DRTB-0710,Migori,2025-08-10,29,Male,Negative,,,19.1,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),95,17.1,2026-02-07,,,,2026-06-30
+DRTB-0692,Homa Bay,2025-08-11,44,Female,Negative,,,20.7,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),85,11.3,2025-09-09,,,,2026-06-30
+DRTB-0861,Siaya,2025-08-11,44,Male,Negative,,,15.2,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,30.6,2025-09-10,,,,2026-06-30
+DRTB-0044,Siaya,2025-08-12,38,Male,Negative,,,15.4,No,No,No,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),93,13.2,2026-03-12,,,,2026-06-30
+DRTB-0540,Homa Bay,2025-08-12,48,Male,Positive,,Yes,16.8,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),78,25.5,2025-12-10,,,2026-02-04,2026-02-04
+DRTB-0670,Siaya,2025-08-12,21,Male,Negative,,,22.2,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),100,10.9,2025-09-08,,,,2026-06-30
+DRTB-1049,Busia,2025-08-13,60,Male,Negative,,,20.9,Yes,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),79,5.9,2025-12-13,,,,2026-06-30
+DRTB-0554,Migori,2025-08-14,37,Male,Negative,,,26.5,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),89,12.7,2026-01-11,,2026-01-20,,2026-01-20
+DRTB-0200,Homa Bay,2025-08-15,41,Male,Negative,,,19.8,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,18.9,2026-05-15,,,,2026-06-30
+DRTB-0383,Siaya,2025-08-15,61,Male,Negative,,,23.6,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),91,14.4,2025-09-14,,,,2026-06-30
+DRTB-0783,Homa Bay,2025-08-15,41,Female,Negative,,,22.7,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),93,5.5,,,,,2026-06-30
+DRTB-0158,Kisumu,2025-08-16,46,Female,Negative,,,18.4,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),79,6.2,2026-01-13,,,,2026-06-30
+DRTB-0410,Migori,2025-08-16,45,Female,Negative,,,23.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,12.6,2025-10-16,,,,2026-06-30
+DRTB-0104,Kisumu,2025-08-18,18,Male,Negative,,,17.1,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),88,4.4,2025-12-18,,,,2026-06-30
+DRTB-0738,Siaya,2025-08-18,51,Female,Positive,226.0,Yes,19.8,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),94,10.9,2025-11-17,,,,2026-06-30
+DRTB-0174,Kakamega,2025-08-21,20,Female,Negative,,,17.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),87,12.0,,,,,2026-06-30
+DRTB-1152,Migori,2025-08-23,50,Female,Positive,721.0,Yes,18.4,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),94,14.9,2025-10-21,,,,2026-06-30
+DRTB-0170,Kakamega,2025-08-24,38,Male,Positive,500.0,Yes,22.0,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),94,7.9,2025-11-23,,,,2026-06-30
+DRTB-1144,Kakamega,2025-08-24,41,Male,Negative,,,22.2,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,12.0,2026-01-23,,,,2026-06-30
+DRTB-0031,Kakamega,2025-08-25,46,Female,Positive,,Yes,,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,4.6,2025-10-27,,,,2026-06-30
+DRTB-0680,Kisumu,2025-08-25,44,Female,Negative,,,20.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),83,2.3,2025-10-24,,,,2026-06-30
+DRTB-0791,Siaya,2025-08-25,28,Male,Negative,,,23.0,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),96,14.2,2025-10-25,,,,2026-06-30
+DRTB-1105,Siaya,2025-08-27,49,Female,Positive,,Yes,15.9,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),67,33.5,,2025-09-09,,,2025-09-09
+DRTB-0356,Homa Bay,2025-08-28,26,Male,Negative,,,16.7,No,Yes,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),65,48.7,,,2025-10-01,,2025-10-01
+DRTB-0712,Homa Bay,2025-08-29,33,Male,Negative,,,16.3,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),94,33.0,2025-10-30,,,,2026-06-30
+DRTB-0477,Kakamega,2025-08-30,25,Female,Negative,,,20.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),82,14.7,2025-12-01,,,,2026-06-30
+DRTB-0833,Siaya,2025-08-30,27,Male,Negative,,,23.5,No,Yes,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),89,26.9,2025-10-01,,,,2026-06-30
+DRTB-0904,Busia,2025-08-30,60,Male,Positive,934.0,Yes,16.6,No,Yes,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,22.6,,2025-12-25,,,2025-12-25
+DRTB-0929,Kakamega,2025-08-30,35,Male,Negative,,,19.3,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),85,5.2,2025-11-30,,,,2026-06-30
+DRTB-1092,Homa Bay,2025-08-30,35,Male,Positive,,Yes,19.2,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),96,10.9,,2025-12-07,,,2025-12-07
+DRTB-0483,Homa Bay,2025-09-03,35,Male,Negative,,,18.1,No,No,Yes,No,Negative/scanty,Pre-XDR,Longer individualised (18-20 mo),96,15.6,2025-10-30,,,,2026-06-30
+DRTB-0392,Siaya,2025-09-04,35,Male,Negative,,,24.0,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,15.3,,,,,2026-06-30
+DRTB-0763,Kakamega,2025-09-05,27,Female,Negative,,,20.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),91,15.0,2025-11-04,,,,2026-06-30
+DRTB-0653,Homa Bay,2025-09-07,52,Male,Negative,,,18.3,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),83,27.8,2025-10-09,,,,2026-06-30
+DRTB-0327,Migori,2025-09-09,27,Female,Negative,,,24.3,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),93,10.8,2025-12-11,,,,2026-06-30
+DRTB-0115,Kisumu,2025-09-10,26,Female,Positive,473.0,Yes,18.4,No,No,Yes,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),80,5.8,2026-04-07,,,,2026-06-30
+DRTB-0969,Homa Bay,2025-09-10,39,Female,Positive,,Yes,18.4,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),69,23.3,2025-10-09,,,,2026-06-30
+DRTB-0159,Kisumu,2025-09-13,28,Male,Positive,580.0,Yes,22.1,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),71,8.8,2025-12-12,,,,2026-06-30
+DRTB-1083,Kakamega,2025-09-13,38,Male,Negative,,,,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),96,11.2,2025-10-13,,,,2026-06-30
+DRTB-0941,Kakamega,2025-09-14,63,Male,Negative,,,19.2,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,4.2,2026-01-12,,,,2026-06-30
+DRTB-0303,Kisumu,2025-09-15,29,Male,Negative,,,21.9,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),67,5.0,2025-10-17,,2026-02-11,,2026-02-11
+DRTB-0988,Homa Bay,2025-09-17,49,Male,Negative,,,19.9,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),86,23.1,2025-10-18,,,,2026-06-30
+DRTB-1161,Homa Bay,2025-09-18,18,Male,Negative,,,18.0,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),98,14.4,2025-12-14,,,,2026-06-30
+DRTB-0082,Homa Bay,2025-09-23,32,Male,Negative,,,18.7,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),83,5.6,2026-03-19,,,,2026-06-30
+DRTB-0206,Kakamega,2025-09-24,30,Male,Negative,,,21.1,No,No,Yes,Yes,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),91,10.1,2026-02-18,,,,2026-06-30
+DRTB-0607,Homa Bay,2025-09-25,18,Male,Positive,,Yes,17.9,No,Yes,Yes,No,2+/3+,Pre-XDR,Short all-oral (6 mo),66,12.5,2025-10-23,,2026-02-12,,2026-02-12
+DRTB-0894,Busia,2025-10-01,48,Male,Positive,,Yes,18.7,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),87,5.6,2026-01-31,,,,2026-06-30
+DRTB-0814,Homa Bay,2025-10-02,46,Female,Negative,,,23.4,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,33.0,2025-11-30,,,,2026-06-30
+DRTB-0888,Migori,2025-10-03,31,Male,Negative,,,21.7,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),76,5.0,2025-10-31,,2025-11-24,,2025-11-24
+DRTB-0276,Kisumu,2025-10-04,51,Male,Positive,295.0,Yes,17.8,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),89,2.5,2026-01-04,,,,2026-06-30
+DRTB-0258,Kakamega,2025-10-05,44,Male,Positive,539.0,Yes,25.0,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),78,16.2,2025-12-06,,,,2026-06-30
+DRTB-0053,Siaya,2025-10-07,24,Male,Negative,,,18.4,No,Yes,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),91,19.5,,,2026-05-05,,2026-05-05
+DRTB-0167,Homa Bay,2025-10-10,18,Male,Negative,,,18.9,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),83,15.7,2026-01-10,,,,2026-06-30
+DRTB-0571,Kisumu,2025-10-13,48,Male,Negative,,,16.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),96,4.6,,,2025-12-02,,2025-12-02
+DRTB-0424,Homa Bay,2025-10-16,56,Female,Positive,220.0,Yes,19.1,Yes,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),81,7.9,2025-11-16,2026-02-07,,,2026-02-07
+DRTB-0788,Busia,2025-10-17,19,Male,Positive,441.0,Yes,17.2,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),100,13.4,2025-12-13,,,,2026-06-30
+DRTB-0292,Migori,2025-10-19,30,Male,Negative,,,24.3,No,No,Yes,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),95,14.2,2025-11-21,,,,2026-06-30
+DRTB-0363,Busia,2025-10-19,37,Male,Negative,,,19.1,Yes,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,7.5,2026-02-17,,,,2026-06-30
+DRTB-0596,Migori,2025-10-20,26,Male,Negative,,,17.8,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),83,10.1,2025-12-21,,,,2026-06-30
+DRTB-0677,Kisumu,2025-10-20,34,Male,Negative,,,20.7,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),77,5.3,2025-11-22,,,,2026-06-30
+DRTB-0912,Siaya,2025-10-20,45,Female,Negative,,,21.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,12.6,2025-12-22,,,,2026-06-30
+DRTB-1034,Migori,2025-10-21,45,Male,Negative,,,24.2,No,Yes,No,Yes,1+,RR/MDR,Short all-oral (6 mo),97,23.5,2026-01-19,,,,2026-06-30
+DRTB-1159,Homa Bay,2025-10-22,44,Male,Negative,,,21.0,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,6.8,2025-11-21,,2026-01-13,,2026-01-13
+DRTB-1191,Siaya,2025-10-22,56,Male,Positive,462.0,No,22.0,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),73,14.9,2025-12-22,2026-04-11,,,2026-04-11
+DRTB-0636,Siaya,2025-10-23,22,Male,Negative,,,20.8,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,18.0,2026-04-18,,,,2026-06-30
+DRTB-1059,Busia,2025-10-23,34,Male,Negative,,,16.1,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),88,8.3,2026-01-18,,,,2026-06-30
+DRTB-0613,Kakamega,2025-10-24,44,Female,Negative,,,19.6,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),83,16.6,2025-12-20,,,,2026-06-30
+DRTB-0504,Homa Bay,2025-10-25,40,Female,Negative,,,19.7,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),64,17.1,2025-12-22,,,,2026-06-30
+DRTB-0013,Migori,2025-10-26,31,Male,Negative,,,19.1,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,12.6,2025-11-28,,,,2026-06-30
+DRTB-0237,Kisumu,2025-10-26,34,Male,Negative,,,22.0,No,Yes,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),84,4.6,2026-05-27,,,,2026-06-30
+DRTB-0756,Kakamega,2025-10-26,28,Female,Negative,,,16.1,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),99,14.5,2026-05-27,,,,2026-06-30
+DRTB-0300,Kisumu,2025-10-29,53,Male,Negative,,,18.1,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),88,14.4,2026-04-29,,,,2026-06-30
+DRTB-1180,Busia,2025-10-29,26,Male,Positive,199.0,No,20.0,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),87,8.0,2025-12-27,,,,2026-06-30
+DRTB-0952,Homa Bay,2025-10-30,21,Male,Positive,305.0,No,19.0,No,No,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),77,8.4,,,2025-12-13,,2025-12-13
+DRTB-0681,Homa Bay,2025-10-31,30,Male,Negative,,,25.6,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),93,42.6,2026-01-31,,,,2026-06-30
+DRTB-0128,Busia,2025-11-01,45,Male,Positive,293.0,Yes,21.4,No,No,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),92,10.3,2025-12-03,,,,2026-06-30
+DRTB-0759,Migori,2025-11-01,39,Female,Positive,,Yes,16.9,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),96,22.5,2025-12-28,,,,2026-06-30
+DRTB-0214,Homa Bay,2025-11-02,57,Female,Positive,,Yes,19.1,No,No,No,Yes,1+,Pre-XDR,Short all-oral (6 mo),88,17.4,,,,,2026-06-30
+DRTB-0703,Homa Bay,2025-11-02,47,Female,Positive,,Yes,,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),92,51.4,2026-02-28,,,,2026-06-30
+DRTB-1116,Siaya,2025-11-02,30,Male,Positive,245.0,Yes,18.6,No,Yes,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),88,32.9,2026-02-03,,,,2026-06-30
+DRTB-0465,Kisumu,2025-11-03,33,Male,Negative,,,18.2,No,No,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),85,9.1,2026-01-03,,,,2026-06-30
+DRTB-0795,Migori,2025-11-03,24,Female,Positive,409.0,Yes,23.0,No,Yes,Yes,Yes,1+,Pre-XDR,Short all-oral (6 mo),89,11.2,2026-03-30,,,,2026-06-30
+DRTB-0469,Siaya,2025-11-05,44,Female,Negative,,,15.1,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),74,3.8,,,,,2026-06-30
+DRTB-0897,Kisumu,2025-11-05,54,Male,Positive,326.0,No,20.1,No,No,No,No,1+,Pre-XDR,Short all-oral (6 mo),99,3.1,2025-12-04,,,,2026-06-30
+DRTB-0412,Migori,2025-11-07,29,Male,Negative,,,18.6,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),87,20.3,2026-01-03,,,,2026-06-30
+DRTB-0347,Siaya,2025-11-08,35,Male,Negative,,,20.2,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),86,14.9,2026-02-03,,,,2026-06-30
+DRTB-0043,Migori,2025-11-12,34,Female,Negative,,,20.3,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),98,9.6,2025-12-15,,,,2026-06-30
+DRTB-0323,Kakamega,2025-11-13,30,Female,Negative,,,19.3,No,No,Yes,No,Negative/scanty,RR/MDR,Longer individualised (18-20 mo),92,5.0,2025-12-14,,,,2026-06-30
+DRTB-0831,Kisumu,2025-11-14,33,Female,Positive,247.0,Yes,14.9,Yes,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,12.9,,,,,2026-06-30
+DRTB-0328,Kisumu,2025-11-15,39,Male,Positive,585.0,Yes,22.8,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),75,6.2,,,,,2026-06-30
+DRTB-1042,Homa Bay,2025-11-15,34,Male,Positive,274.0,Yes,22.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),88,15.3,2026-03-14,,,,2026-06-30
+DRTB-0369,Busia,2025-11-16,18,Male,Negative,,,22.2,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,43.5,2026-03-15,,,,2026-06-30
+DRTB-0887,Migori,2025-11-16,27,Male,Negative,,,,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,29.2,2025-12-18,,,,2026-06-30
+DRTB-0914,Siaya,2025-11-16,21,Male,Positive,,Yes,,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),87,8.4,2026-01-15,,,,2026-06-30
+DRTB-1077,Migori,2025-11-16,27,Male,Positive,,Yes,16.9,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),78,16.7,2026-02-15,,,,2026-06-30
+DRTB-0180,Kakamega,2025-11-17,48,Female,Positive,1400.0,Yes,20.4,No,No,Yes,No,1+,RR/MDR,Longer individualised (18-20 mo),94,5.4,,,,,2026-06-30
+DRTB-0442,Kisumu,2025-11-17,43,Male,Negative,,,18.6,No,No,Yes,No,1+,RR/MDR,Short all-oral (6 mo),76,14.1,2026-01-15,,,,2026-06-30
+DRTB-0459,Homa Bay,2025-11-17,45,Male,Positive,263.0,Yes,,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),88,14.6,2025-12-14,,,,2026-06-30
+DRTB-0502,Kisumu,2025-11-17,35,Male,Positive,580.0,Yes,16.3,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,3.7,2025-12-14,,,,2026-06-30
+DRTB-0003,Siaya,2025-11-18,28,Male,Negative,,,22.9,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),99,7.2,2026-01-17,,,,2026-06-30
+DRTB-0334,Kakamega,2025-11-18,36,Female,Positive,180.0,Yes,21.9,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),44,20.9,2025-12-18,,2026-02-02,,2026-02-02
+DRTB-0577,Siaya,2025-11-18,46,Female,Positive,838.0,Yes,16.1,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),98,10.7,2026-02-18,,,,2026-06-30
+DRTB-0337,Kakamega,2025-11-19,26,Female,Positive,67.0,Yes,23.2,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),87,8.9,2025-12-16,,,,2026-06-30
+DRTB-0359,Siaya,2025-11-19,43,Female,Negative,,,19.9,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),90,13.5,2025-12-22,,2026-02-14,,2026-02-14
+DRTB-1199,Busia,2025-11-19,28,Male,Negative,,,15.6,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),92,8.0,2026-01-20,,,,2026-06-30
+DRTB-0234,Kisumu,2025-11-21,30,Male,Negative,,,17.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),88,4.2,2026-01-21,,,,2026-06-30
+DRTB-0463,Homa Bay,2025-11-21,34,Male,Negative,,,18.2,No,Yes,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),85,19.3,2026-04-18,,,,2026-06-30
+DRTB-0235,Siaya,2025-11-22,41,Male,Positive,989.0,No,21.9,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),78,8.7,2026-02-17,,,,2026-06-30
+DRTB-0431,Kisumu,2025-11-22,31,Female,Negative,,,19.9,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),85,4.8,2025-12-19,,,,2026-06-30
+DRTB-0982,Homa Bay,2025-11-22,18,Male,Negative,,,24.8,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),86,17.5,2026-06-19,,,,2026-06-30
+DRTB-0017,Kakamega,2025-11-23,27,Female,Negative,,,23.7,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),92,9.0,2026-04-25,,,,2026-06-30
+DRTB-0563,Homa Bay,2025-11-24,44,Female,Positive,,Yes,,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),71,50.3,,,,,2026-06-30
+DRTB-1172,Kakamega,2025-11-24,56,Male,Negative,,,21.3,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),87,11.4,2026-01-21,,,,2026-06-30
+DRTB-0977,Homa Bay,2025-11-25,40,Male,Negative,,,23.8,Yes,No,Yes,No,2+/3+,Pre-XDR,Longer individualised (18-20 mo),96,17.2,2026-06-20,,,,2026-06-30
+DRTB-0603,Kakamega,2025-11-26,46,Female,Positive,209.0,Yes,14.5,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),97,15.2,,2026-02-07,,,2026-02-07
+DRTB-0753,Migori,2025-11-26,50,Male,Negative,,,24.6,No,Yes,Yes,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,20.1,,,2026-02-03,,2026-02-03
+DRTB-0287,Kisumu,2025-11-29,62,Male,Negative,,,22.4,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),84,5.2,2026-01-26,,,,2026-06-30
+DRTB-0494,Migori,2025-11-30,46,Male,Negative,,,20.4,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),99,15.1,,,,,2026-06-30
+DRTB-0381,Kisumu,2025-12-01,35,Male,Positive,274.0,No,21.4,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),95,4.8,2026-02-26,,,,2026-06-30
+DRTB-1035,Busia,2025-12-01,26,Male,Positive,,Yes,20.0,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),79,67.2,,,,,2026-06-30
+DRTB-0138,Homa Bay,2025-12-02,24,Female,Negative,,,23.4,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,6.7,2026-03-31,,,,2026-06-30
+DRTB-0199,Kisumu,2025-12-03,35,Male,Negative,,,21.2,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),85,2.5,2026-02-02,,2026-06-04,,2026-06-04
+DRTB-0311,Kisumu,2025-12-03,41,Female,Positive,,Yes,18.6,No,No,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),89,14.8,2026-02-04,,,,2026-06-30
+DRTB-0198,Homa Bay,2025-12-04,27,Female,Positive,99.0,No,20.1,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),90,15.2,,,,,2026-06-30
+DRTB-0028,Migori,2025-12-06,42,Female,Positive,,Yes,16.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,18.7,2026-05-06,,,,2026-06-30
+DRTB-0829,Siaya,2025-12-06,34,Male,Negative,,,19.0,No,No,No,Yes,2+/3+,RR/MDR,Longer individualised (18-20 mo),92,10.2,2026-05-04,,,,2026-06-30
+DRTB-0140,Busia,2025-12-07,44,Male,Positive,309.0,Yes,20.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),99,8.3,2026-02-08,,,,2026-06-30
+DRTB-0749,Migori,2025-12-07,20,Male,Negative,,,20.0,No,Yes,Yes,Yes,2+/3+,Pre-XDR,Longer individualised (18-20 mo),74,15.4,,,,,2026-06-30
+DRTB-0124,Kisumu,2025-12-09,24,Male,Negative,,,20.6,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),95,6.5,2026-05-11,,,,2026-06-30
+DRTB-0519,Siaya,2025-12-11,18,Male,Positive,252.0,Yes,21.0,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),98,12.2,2026-02-10,,,,2026-06-30
+DRTB-0573,Busia,2025-12-11,37,Male,Negative,,,16.3,No,No,Yes,Yes,2+/3+,Pre-XDR,Short all-oral (6 mo),90,3.4,2026-02-06,,,,2026-06-30
+DRTB-0836,Siaya,2025-12-11,38,Male,Negative,,,25.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,8.3,2026-01-08,,,,2026-06-30
+DRTB-0096,Kisumu,2025-12-12,49,Female,Positive,190.0,No,17.3,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),83,6.6,,2026-03-28,,,2026-03-28
+DRTB-0524,Migori,2025-12-12,19,Male,Negative,,,19.5,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),88,13.1,2026-02-13,,,,2026-06-30
+DRTB-0882,Kakamega,2025-12-12,38,Male,Negative,,,20.7,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),96,11.6,,,2026-02-05,,2026-02-05
+DRTB-0909,Kisumu,2025-12-12,37,Male,Negative,,,20.1,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),96,3.8,2026-03-11,,,,2026-06-30
+DRTB-0798,Kisumu,2025-12-16,28,Female,Negative,,,19.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),85,5.9,2026-01-15,,,,2026-06-30
+DRTB-1045,Migori,2025-12-16,25,Female,Positive,250.0,Yes,21.4,No,No,Yes,Yes,1+,RR/MDR,Short all-oral (6 mo),67,9.8,2026-01-12,,2026-03-06,,2026-03-06
+DRTB-0173,Kisumu,2025-12-18,21,Male,Positive,,Yes,20.3,No,No,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),99,16.0,2026-04-17,,,,2026-06-30
+DRTB-0305,Busia,2025-12-18,32,Female,Positive,499.0,Yes,19.3,No,No,No,No,Negative/scanty,Pre-XDR,Short all-oral (6 mo),78,21.5,2026-01-17,,,,2026-06-30
+DRTB-0779,Kisumu,2025-12-18,26,Male,Positive,241.0,No,15.8,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,4.6,2026-02-15,,,,2026-06-30
+DRTB-0782,Busia,2025-12-18,32,Female,Negative,,,21.6,No,No,No,Yes,1+,RR/MDR,Short all-oral (6 mo),96,5.6,2026-01-15,,,,2026-06-30
+DRTB-1078,Migori,2025-12-18,30,Male,Positive,,Yes,15.6,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),97,12.2,2026-01-20,,,,2026-06-30
+DRTB-0773,Busia,2025-12-19,45,Male,Negative,,,17.5,No,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),79,33.4,,,2026-01-14,,2026-01-14
+DRTB-1103,Kisumu,2025-12-19,38,Male,Negative,,,20.2,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),99,4.3,2026-01-19,,,,2026-06-30
+DRTB-0551,Homa Bay,2025-12-20,47,Male,Positive,,Yes,18.1,No,No,No,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),82,24.8,,,2026-01-21,,2026-01-21
+DRTB-0973,Kisumu,2025-12-20,59,Male,Negative,,,20.3,No,Yes,Yes,No,1+,RR/MDR,Short all-oral (6 mo),89,3.0,2026-02-21,,2026-02-28,,2026-02-28
+DRTB-1063,Siaya,2025-12-21,41,Male,Negative,,,,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),93,27.4,2026-03-20,,,,2026-06-30
+DRTB-0516,Kisumu,2025-12-22,67,Female,Positive,305.0,Yes,15.3,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),95,9.8,2026-06-22,,,,2026-06-30
+DRTB-0885,Kisumu,2025-12-22,31,Male,Negative,,,18.9,No,No,No,Yes,1+,RR/MDR,Longer individualised (18-20 mo),83,10.4,2026-02-20,,2026-05-03,,2026-05-03
+DRTB-0254,Siaya,2025-12-24,55,Female,Positive,114.0,No,16.5,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),92,22.2,2026-01-22,,,,2026-06-30
+DRTB-1147,Kakamega,2025-12-25,28,Female,Negative,,,21.1,No,Yes,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),93,9.3,2026-03-24,,,,2026-06-30
+DRTB-1170,Homa Bay,2025-12-25,33,Male,Negative,,,20.1,No,Yes,No,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),77,4.0,2026-01-27,,2026-05-31,,2026-05-31
+DRTB-1047,Busia,2025-12-26,36,Male,Negative,,,22.3,No,No,No,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),92,9.8,2026-01-23,,,,2026-06-30
+DRTB-1163,Kakamega,2025-12-27,25,Male,Positive,228.0,Yes,21.4,No,Yes,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),92,17.7,,2026-01-04,,,2026-01-04
+DRTB-0143,Kisumu,2025-12-28,21,Male,Positive,141.0,Yes,17.5,No,Yes,No,No,2+/3+,RR/MDR,Short all-oral (6 mo),75,4.8,,2026-01-06,,,2026-01-06
+DRTB-0205,Kakamega,2025-12-28,35,Female,Positive,,Yes,15.3,No,No,No,No,1+,RR/MDR,Short all-oral (6 mo),94,8.3,2026-05-30,,,,2026-06-30
+DRTB-0187,Kisumu,2025-12-29,18,Male,Positive,193.0,Yes,19.5,Yes,No,Yes,No,Negative/scanty,RR/MDR,Short all-oral (6 mo),97,3.2,,,2026-05-28,,2026-05-28
+DRTB-0786,Kisumu,2025-12-29,69,Female,Positive,76.0,Yes,,No,No,Yes,No,2+/3+,RR/MDR,Short all-oral (6 mo),82,4.0,2026-06-24,,,,2026-06-30
+DRTB-0705,Homa Bay,2025-12-31,23,Male,Negative,,,15.1,No,No,Yes,Yes,2+/3+,RR/MDR,Short all-oral (6 mo),90,14.3,2026-04-03,,,,2026-06-30
+DRTB-0947,Kisumu,2025-12-31,26,Male,Negative,,,23.2,No,Yes,Yes,Yes,Negative/scanty,RR/MDR,Short all-oral (6 mo),72,14.7,2026-03-02,,,,2026-06-30

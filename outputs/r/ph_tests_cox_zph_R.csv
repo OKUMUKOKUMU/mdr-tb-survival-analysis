@@ -1,0 +1,40 @@
+"model","term","chisq","p"
+"Culture conversion","age10",1.17327085499743,0.278730185772705
+"Culture conversion","male",0.716152215650285,0.39740895990327
+"Culture conversion","hiv_cd4_200plus",0.279950660550998,0.596733557369219
+"Culture conversion","hiv_cd4_lt200",0.0990337528482038,0.752992263919449
+"Culture conversion","hiv_cd4_unknown",0.374782173279496,0.540409043618142
+"Culture conversion","undernutrition",0.238873712321619,0.625020765024198
+"Culture conversion","diabetes",1.76238864218842,0.184326856554664
+"Culture conversion","smoker",0.0159535884976208,0.899488507317136
+"Culture conversion","prev_tb",0.0308948006120154,0.860475292425955
+"Culture conversion","cavitary",0.436707124112691,0.508716083279788
+"Culture conversion","smear_1plus",0.121085290516236,0.727860372458318
+"Culture conversion","smear_2plus",0.275454149182899,0.599696327370411
+"Culture conversion","pre_xdr",1.05566207726456,0.304206653880897
+"Culture conversion","short_regimen",11.8371948602384,0.000580592227998269
+"Culture conversion","adherence_def10",1.61626290460204,0.203613660523389
+"Culture conversion","distance10",0.306969565264941,0.579545762129196
+"Culture conversion","GLOBAL",22.1597560731848,0.138107742343652
+"Death before conversion","age10",0.980503018401305,0.322074650573455
+"Death before conversion","male",3.49738386766302,0.0614658545923401
+"Death before conversion","hiv_cd4_200plus",0.000887333948287074,0.976236008595916
+"Death before conversion","hiv_cd4_lt200",0.0405318549513583,0.840444262703964
+"Death before conversion","hiv_cd4_unknown",0.369912707224016,0.543051854020665
+"Death before conversion","no_art",0.287219904373532,0.592007613715452
+"Death before conversion","undernutrition",0.0471071931106212,0.828175679528181
+"Death before conversion","diabetes",6.75059198464454,0.00937165852701953
+"Death before conversion","cavitary",0.0647176064664199,0.799189213261455
+"Death before conversion","smear_high",0.597609397184603,0.439491605764652
+"Death before conversion","pre_xdr",0.000102440626739149,0.991924512298583
+"Death before conversion","short_regimen",0.416717019064387,0.518579750268923
+"Death before conversion","GLOBAL",12.8700620397481,0.378555506299956
+"LTFU before conversion","age_under25",3.16086607878552,0.0754231598236268
+"LTFU before conversion","male",0.758136787675996,0.383912239848882
+"LTFU before conversion","hiv_pos",0.163356377944503,0.686084993831389
+"LTFU before conversion","smoker",0.84395870444468,0.35826702831282
+"LTFU before conversion","prev_tb",0.831337078270848,0.361886183647835
+"LTFU before conversion","short_regimen",6.73144167788423,0.00947280066971338
+"LTFU before conversion","adherence_def10",2.83009235585344,0.092513039130657
+"LTFU before conversion","distance10",0.445976995225708,0.504251632592098
+"LTFU before conversion","GLOBAL",14.3044204170393,0.0741678249378017

@@ -1,0 +1,37 @@
+model,term,label,test_statistic,p
+Culture conversion,adherence_def10,Adherence (per 10% below 90%),2.135556385664238,0.14391823576144358
+Culture conversion,age10,Age (per 10 years),1.300873965104663,0.25405364553158244
+Culture conversion,cavitary,Cavitary disease,1.184493921600897,0.27644301772716473
+Culture conversion,diabetes,Diabetes,2.2601852040145647,0.13273818562026968
+Culture conversion,distance10,Distance to clinic (per 10 km),0.7061938654025163,0.40071025941867877
+Culture conversion,hiv_cd4_200plus,HIV+ CD4 ≥200 (vs HIV−),0.2536585851826944,0.6145106555101527
+Culture conversion,hiv_cd4_lt200,HIV+ CD4 <200 (vs HIV−),0.10362478223912723,0.7475223667805035
+Culture conversion,hiv_cd4_unknown,HIV+ CD4 unknown (vs HIV−),0.17444962925821653,0.6761871834902583
+Culture conversion,male,Male sex,0.589287489489781,0.44269477443884353
+Culture conversion,pre_xdr,Pre-XDR (vs RR/MDR),0.7533305357085616,0.38542380777391405
+Culture conversion,prev_tb,Previous TB treatment,0.03932686760822337,0.8428025054942605
+Culture conversion,short_regimen,Short all-oral regimen,11.625544961819065,0.0006505217806355313
+Culture conversion,smear_1plus,Smear 1+ (vs neg/scanty),0.006615778838115057,0.9351736013050002
+Culture conversion,smear_2plus,Smear 2+/3+ (vs neg/scanty),0.6544265592194874,0.4185345007788034
+Culture conversion,smoker,Current smoker,0.087833401954281,0.7669498198762688
+Culture conversion,undernutrition,Undernutrition (BMI < 18.5),0.20965734815199208,0.64703610362422
+Death before conversion,age10,Age (per 10 years),1.149766502096351,0.2835980342342786
+Death before conversion,cavitary,Cavitary disease,0.01651570479362134,0.8977426611949446
+Death before conversion,diabetes,Diabetes,4.385807680340488,0.03623931825694135
+Death before conversion,hiv_cd4_200plus,HIV+ CD4 ≥200 (vs HIV−),0.32817813148044706,0.5667338446490404
+Death before conversion,hiv_cd4_lt200,HIV+ CD4 <200 (vs HIV−),0.013050393111129708,0.9090488780038853
+Death before conversion,hiv_cd4_unknown,HIV+ CD4 unknown (vs HIV−),0.38225826838911614,0.5363971204904963
+Death before conversion,male,Male sex,3.8435030981084592,0.049939079995312725
+Death before conversion,no_art,HIV+ not on ART,0.535165249794862,0.4644433395496652
+Death before conversion,pre_xdr,Pre-XDR (vs RR/MDR),0.001514672475500562,0.968955132996258
+Death before conversion,short_regimen,Short all-oral regimen,0.7493540828093541,0.3866808090495436
+Death before conversion,smear_high,Smear 2+/3+ (vs lower),0.27882347379446343,0.5974733924680248
+Death before conversion,undernutrition,Undernutrition (BMI < 18.5),0.01609958893133498,0.8990320873086416
+LTFU before conversion,adherence_def10,Adherence (per 10% below 90%),1.6521816372023446,0.19866225853803726
+LTFU before conversion,age_under25,Age < 25 years,2.9619575672894056,0.08524467872852169
+LTFU before conversion,distance10,Distance to clinic (per 10 km),0.20230577466400557,0.6528660931764854
+LTFU before conversion,hiv_pos,HIV-positive,0.10873286504779262,0.7415913881307398
+LTFU before conversion,male,Male sex,0.2162964513216162,0.6418764428649731
+LTFU before conversion,prev_tb,Previous TB treatment,0.42424434536256184,0.5148267604245902
+LTFU before conversion,short_regimen,Short all-oral regimen,5.571924962629685,0.018250686104655856
+LTFU before conversion,smoker,Current smoker,0.19426921601957173,0.6593868870895039
